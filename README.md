@@ -10,5 +10,5 @@ Symulacja będzie przyjmować dane wejściowe: n oznaczające ilość krajów w 
 
 populacja = przeciętni + naukowcy + żołnierze + zombie
 
-Aby łatwiej było podać większe ilości danych wejściowych, wszystkie liczby poza n będą wczytywane z pliku .txt.
+Aby łatwiej było podać większe ilości danych wejściowych, wszystkie liczby poza n będą wczytywane z pliku .txt, którego nazwy nie będize trzeba podawać. Wystarczy samo n.
 
