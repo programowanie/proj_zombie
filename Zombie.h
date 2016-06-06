@@ -48,7 +48,7 @@ public:
 
 class BerserkZombie : public Zombie
 {
-    int _attackChance, _attackCount, _resistChance;
+    int _attackChance, _attackCount;
 public:
     BerserkZombie():Zombie(), _attackChance(rand()%20+10), _attackCount(rand()%3+1), _resistChance(rand()%10+15) {}
     int attackChance() { return _attackChance; }
