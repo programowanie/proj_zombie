@@ -50,7 +50,7 @@ class BerserkZombie : public Zombie
 {
     int _attackChance, _attackCount;
 public:
-    BerserkZombie():Zombie(), _attackChance(rand()%20+10), _attackCount(rand()%3+1), _resistChance(rand()%10+15) {}
+    BerserkZombie():Zombie(), _attackChance(rand()%20+10), _attackCount(rand()%3+1) {}
     int attackChance() { return _attackChance; }
     int attackCount() { return _attackCount; }
     virtual int who() { return 2; }
