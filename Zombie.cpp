@@ -3,42 +3,42 @@
 
 using namespace std;
 
-void CommonZombie::description()
+string CommonZombie::description()
 {
-    cout<<"Common Zombie nr: "<<zombieID()<<"  Health: "<<zombieHP()<<endl
-        <<"Attack chance: "<<_attackchance<<endl;
+    return "Common Zombie nr: "+to_string(zombieID())+"  Health: "+to_string(zombieHP())+"\n"
+        +"Attack chance: "+to_string(_attackChance)+"\n";
 }
 
-void SuicideZombie::description()
+string SuicideZombie::description()
 {
-    cout<<"Suicide Zombie nr: "<<zombieID()<<"  Health: "<<zombieHP()<<endl
-        <<"Attack chance: "<<_attackchance<<endl;
+    return "Suicide Zombie nr: "+to_string(zombieID())+"  Health: "+to_string(zombieHP())+"\n"
+        +"Attack chance: "+to_string(_attackChance)+"\n";
 }
 
-void BerserkZombie::description()
+string BerserkZombie::description()
 {
-    cout<<"Berserk Zombie nr: "<<zombieID()<<"  Health: "<<zombieHP()<<endl
-        <<"Attack chance: "<<_attackchance<<"  Attack count: "<<_attackcount<<"  Resist chance: "<<_resistchance<<endl;
+    return "Berserk Zombie nr: "+to_string(zombieID())+"  Health: "+to_string(zombieHP())+"\n"
+        +"Attack chance: "+to_string(_attackChance)+"  Attack count: "+to_string(_attackCount)+"  Resist chance: "+to_string(_resistChance)+"\n";
 }
 
-bool CommonZombie::tryattack()
+bool CommonZombie::tryAttack()
 {
-    if(rand()%100+1<=_attackchance) return true;
+    if(rand()%100+1<=_attackChance) return true;
     else return false;
 }
 
-bool SuicideZombie::tryattack()
+bool SuicideZombie::tryAttack()
 {
-    if(rand()%100+1<=_attackchance) return true;
+    if(rand()%100+1<=_attackChance) return true;
     else return false;
 }
 
-bool BerserkZombie::tryattack()
+bool BerserkZombie::tryAttack()
 {
     bool atk=false;
-    for(int i=0; i<_attackcount; i++)
+    for(int i=0; i<_attackCount; i++)
     {
-        if(rand()%100+1<=_attackchance) atk=true;
+        if(rand()%100+1<=_attackChance) atk=true;
     }
     return atk;
 }

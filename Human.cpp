@@ -3,20 +3,20 @@
 
 using namespace std;
 
-void CommonHuman::description()
+string CommonHuman::description()
 {
-    cout<<"Common Human nr: "<<humanID()<<"  Health: "<<humanHP()<<endl
-        <<"Attack: "<<_attack<<"  Attack chance: "<<_attackchance<<"  Dodge chance: "<<_dodgechance<<endl;
+	return "Common Human nr: "+to_string(humanID())+"  Health: "+to_string(humanHP())+"\n"
+        +"Attack: "+to_string(_attack)+"  Attack chance: "+to_string(_attackChance)+"  Dodge chance: "+to_string(_dodgeChance)+"\n";
 }
 
-void ScienceHuman::description()
+string ScienceHuman::description()
 {
-    cout<<"Science Human nr: "<<humanID()<<"  Health: "<<humanHP()<<endl
-        <<"Intelligence: "<<_intelligence<<endl;
+	return "Science Human nr: "+to_string(humanID())+"  Health: "+to_string(humanHP())+"\n"
+        +"Intelligence: "+to_string(_intelligence)+"\n";
 }
 
-void MilitaryHuman::description()
+string MilitaryHuman::description()
 {
-    cout<<"Military Human nr: "<<humanID()<<"  Health: "<<humanHP()<<endl
-        <<"Attack: "<<_attack<<"  Attack chance: "<<_attackchance<<"  Dodge chance: "<<_dodgechance<<endl;
+	return "Military Human nr: "+to_string(humanID())+"  Health: "+to_string(humanHP())+"\n"
+        +"Attack: "+to_string(_attack)+"  Attack chance: "+to_string(_attackChance)+"  Dodge chance: "+to_string(_dodgeChance)+"\n";
 }

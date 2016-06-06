@@ -1,39 +1,40 @@
 #pragma once
 #include <cstdlib>
+#include <string>
 
 using namespace std;
 
 class Human
 {
-    static int _humancounter;
+    static int _humanCounter;
     int _humanID, _humanHP;
 public:
-    Human():_humanID(_humancounter++), _humanHP(100) {}
+    Human():_humanID(_humanCounter++), _humanHP(100) {}
     int humanID() { return _humanID; }
     int humanHP() { return _humanHP; }
-    int isdead() { return _humanHP>0? false:true; }
+    int isDead() { return _humanHP>0? false:true; }
     void damage(int dmg) { _humanHP-=dmg; }
     virtual int attack()=0;
-    virtual int attackchance()=0;
-    virtual int dodgechance()=0;
+    virtual int attackChance()=0;
+    virtual int dodgeChance()=0;
     virtual int intelligence()=0;
     virtual int who()=0;// 0-Common 1-Scientist 2-Soldier
 
-    virtual void description()=0;
+    virtual string description()=0;
 };
 
 class CommonHuman : public Human
 {
-    int _attack, _attackchance, _dodgechance;
+    int _attack, _attackChance, _dodgeChance;
 public:
-    CommonHuman():Human(), _attack(rand()%10+30), _attackchance(rand()%10+50), _dodgechance(rand()%10+50) {}
+    CommonHuman():Human(), _attack(rand()%10+30), _attackChance(rand()%10+50), _dodgeChance(rand()%10+50) {}
     int attack() { return _attack; }
-    int attackchance() { return _attackchance; }
-    int dodgechance() { return _dodgechance; }
+    int attackChance() { return _attackChance; }
+    int dodgeChance() { return _dodgeChance; }
     int intelligence() { return 0; }//nigdy sie nie wykona
     virtual int who() { return 0; }
 
-    virtual void description();
+    virtual string description();
 };
 
 class ScienceHuman : public CommonHuman
@@ -44,19 +45,19 @@ public:
     int intelligence() { return _intelligence; }
     virtual int who() { return 1; }
 
-    virtual void description();
+    virtual string description();
 };
 
 class MilitaryHuman : public Human
 {
-    int _attack, _attackchance, _dodgechance;
+    int _attack, _attackChance, _dodgeChance;
 public:
-    MilitaryHuman():Human(), _attack(rand()%10+50), _attackchance(rand()%10+65), _dodgechance(rand()%10+65) {}
+    MilitaryHuman():Human(), _attack(rand()%10+50), _attackChance(rand()%10+65), _dodgeChance(rand()%10+65) {}
     int attack() { return _attack; }
-    int attackchance() { return _attackchance; }
-    int dodgechance() { return _dodgechance; }
+    int attackChance() { return _attackChance; }
+    int dodgeChance() { return _dodgeChance; }
     int intelligence() { return 0; }//nigdy sie nie wykona
     virtual int who() {return 2; }
 
-    virtual void description();
+    virtual string description();
 };

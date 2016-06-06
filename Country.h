@@ -2,14 +2,16 @@
 #include "Human.h"
 #include "Zombie.h"
 #include <vector>
+#include <string>
+#include <fstream>
 
 using namespace std;
 
 class Country
 {
-    std::vector<Human *> vectorofhumans;
-    std::vector<Zombie *> vectorofzombies;
-    int _humanpower, _humanagility, _sciencelevel, _militarylevel, _environment;
+    std::vector<Human *> vectorOfHumans;
+    std::vector<Zombie *> vectorOfZombies;
+    int _humanPower, _humanAgility, _scienceLevel, _militaryLevel, _environment;
     int _scientists, _soldiers, _commons;
     int _cure;
 public:
@@ -17,12 +19,12 @@ public:
     int humans();
     int zombies();
     int cure();
-    void changehumantozombie(std::vector<Human *>::iterator humanopponent);
-    void fight();
-    void spreadvirus(int i);
-    bool searchforcure();
-    void curesomezombies();
+    void changeHumanToZombie(std::vector<Human *>::iterator humanOpponent);
+    void fight(fstream &output, int outputInfo);
+    void spreadVirus(int i, fstream &output);
+    bool searchForCure(fstream &output);
+    void cureSomeZombies(fstream &output);
 
-    void description();
-    void showeveryone();
+    string description();
+    string showEveryone();
 };

@@ -9,49 +9,54 @@
 
 using namespace std;
 
-int Zombie::_zombiecounter=1;
-int Human::_humancounter=1;
+int Zombie::_zombieCounter=1;
+int Human::_humanCounter=1;
 
 std::vector<int> numbers;
-void simulatecountry(int population, int scientists, int soldiers, int zombies);
-void fileload();
+void simulateCountry(int population, int scientists, int soldiers, int zombies, int outputInfo);
+void fileLoad();
+    fstream output;
 
 int main(int argc, char const *argv[])
 {
+    int ii=atoi(argv[1]), info=atoi(argv[2]);
     srand(time(NULL));
-    int n=atoi(argv[1]);
-    fileload();
+    fileLoad();
+    output.open("output.txt", ios::out | ios::trunc);
     int index=0;
-    for(int i=0; i<n; i++)
+    for(int i=0; i<ii; i++)
     {
-        simulatecountry(numbers[index], numbers[index+1], numbers[index+2], numbers[index+3]);
+        simulateCountry(numbers[index], numbers[index+1], numbers[index+2], numbers[index+3], info);
         index+=4;
     }
 
 }
 
-void simulatecountry(int population, int scientists, int soldiers, int zombies)
+void simulateCountry(int population, int scientists, int soldiers, int zombies, int outputInfo)
 {
     Country c(population, scientists, soldiers, zombies);
-    c.description();
+    cout<<c.description();
+    output<<"NEW COUNTRY NEW SIMULATION \n"<<c.description();
     int i=0;
     while(c.humans()>0 && c.zombies()>0)
     {
         i++;
-        c.fight();
-        if(c.searchforcure())
+        c.fight(output, outputInfo);
+        if(c.searchForCure(output))
         {
-            if(rand()%2==0) c.curesomezombies();//50% szans na leczenie
+            if(rand()%2==0) c.cureSomeZombies(output);//50% szans na leczenie
         }
-        if(c.humans()) c.spreadvirus(i);
+        if(c.humans()) c.spreadVirus(i, output);
     }
-    cout<<"After "<<i<<" days left:"<<endl
-        <<c.humans()<<" Humans,  "<<c.zombies()<<" Zombies."<<endl
-        <<"Cure progress was: "<<c.cure()<<"  (0 means ready)"<<endl
-        <<"------------------------------------------------------"<<endl;
+    string text="";
+    text="After "+to_string(i)+" days: \n"+to_string(c.humans())+" Humans, "+to_string(c.zombies())+" Zombies. \n"
+        +"Cure progress was: "+to_string(c.cure())+" (0 means ready) \n"
+        +"------------------------------------------------------------------------------------------------------------ \n";
+    cout<<text;
+    output<<text;
 }
 
-void fileload()
+void fileLoad()
 {
     fstream file("input.txt", ios::in);
     int n;

@@ -6,12 +6,12 @@ using namespace std;
 
 int Country::humans()
 {
-    return vectorofhumans.size();
+    return vectorOfHumans.size();
 }
 
 int Country::zombies()
 {
-    return vectorofzombies.size();
+    return vectorOfZombies.size();
 }
 
 int Country::cure()
@@ -19,169 +19,174 @@ int Country::cure()
     return _cure;
 }
 
-void Country::changehumantozombie(std::vector<Human *>::iterator humanopponent)
+void Country::changeHumanToZombie(std::vector<Human *>::iterator humanOpponent)
 {
-    //delete (*humanopponent);
-    vectorofhumans.erase(humanopponent);
+    vectorOfHumans.erase(humanOpponent);
     int r=rand()%10+1;
-    if(r<=8) vectorofzombies.push_back(new CommonZombie);
-    if(r==9) vectorofzombies.push_back(new SuicideZombie);
-    if(r==10) vectorofzombies.push_back(new BerserkZombie);
+    if(r<=8) vectorOfZombies.push_back(new CommonZombie);
+    if(r==9) vectorOfZombies.push_back(new SuicideZombie);
+    if(r==10) vectorOfZombies.push_back(new BerserkZombie);
 }
 
 Country::Country(unsigned int population, int sl, int ml, int zl)
 {
     _cure=10000;
-    _humanpower=rand()%11-5;
-    _humanagility=rand()%11-5;
-    _environment=rand()%7-3;//od-3 do 3 roznicy w spreadvirus
+    _humanPower=rand()%11-5;
+    _humanAgility=rand()%11-5;
+    _environment=rand()%7-3;//od-3 do 3 roznicy w spreadVirus
     _scientists=0; _soldiers=0; _commons=0;
-    _sciencelevel=sl;
-    _militarylevel=ml;
+    _scienceLevel=sl;
+    _militaryLevel=ml;
     int r, h=population-zl, c=h-sl-ml;
     for(int i=0; i<c; i++)
     {
-        vectorofhumans.push_back(new CommonHuman);
+        vectorOfHumans.push_back(new CommonHuman);
         _commons++;
     }
     for(int i=0; i<sl; i++)
     {
-        r=rand()%vectorofhumans.size();
-        vectorofhumans.insert(vectorofhumans.begin()+r, new ScienceHuman);
+        r=rand()%vectorOfHumans.size();
+        vectorOfHumans.insert(vectorOfHumans.begin()+r, new ScienceHuman);
         _scientists++;
     }
     for(int i=0; i<ml; i++)
     {
-        r=rand()%vectorofhumans.size();
-        vectorofhumans.insert(vectorofhumans.begin()+r, new MilitaryHuman);
+        r=rand()%vectorOfHumans.size();
+        vectorOfHumans.insert(vectorOfHumans.begin()+r, new MilitaryHuman);
         _soldiers++;
     }
 
     for(int i=0; i<zl; i++)
     {
         int r=rand()%10+1;
-        if(r<=8) vectorofzombies.push_back(new CommonZombie);
-        if(r==9) vectorofzombies.push_back(new SuicideZombie);
-        if(r==10) vectorofzombies.push_back(new BerserkZombie);
+        if(r<=8) vectorOfZombies.push_back(new CommonZombie);
+        if(r==9) vectorOfZombies.push_back(new SuicideZombie);
+        if(r==10) vectorOfZombies.push_back(new BerserkZombie);
     }
 }
 
-void Country::description()
+string Country::description()
 {
-    cout<<"Vectorofhumans: "<<humans()<<"  Vectorofzombies: "<<zombies()<<endl
-        <<"Scientists: "<<_scientists<<"  Soldiers: "<<_soldiers<<"  Commons: "<<_commons<<endl
-        <<"Cure progress (0 means ready): "<<_cure<<endl;
+    return "Vectorofhumans: "+to_string(humans())+"  Vectorofzombies: "+to_string(zombies())+"\n"
+        +"Scientists: "+to_string(_scientists)+"  Soldiers: "+to_string(_soldiers)+"  Commons: "+to_string(_commons)+"\n"
+        +"Cure progress (0 means ready): "+to_string(_cure)+"\n";
 }
 
-void Country::showeveryone()
+string Country::showEveryone()
 {
-    cout<<"HUMANS"<<endl;
-    std::vector<Human *>::iterator it=vectorofhumans.begin();
-    while(it!=vectorofhumans.end())
+    string text="";
+    text+="HUMANS \n";
+    std::vector<Human *>::iterator it=vectorOfHumans.begin();
+    while(it!=vectorOfHumans.end())
     {
-        (*it)->description();
+        text+=(*it)->description();
         it++;
     }
-    cout<<endl<<"ZOMBIES"<<endl;
-    std::vector<Zombie *>::iterator ite=vectorofzombies.begin();
-    while(ite!=vectorofzombies.end())
+    text+="\nZOMBIES \n";
+    std::vector<Zombie *>::iterator ite=vectorOfZombies.begin();
+    while(ite!=vectorOfZombies.end())
     {
-        (*ite)->description();
+        text+=(*ite)->description();
         ite++;
     }
+    return text;
 }
 
-void Country::fight()
+void Country::fight(fstream &output, int outputInfo)
 {
-    std::vector<Human *>::iterator humanopponent=vectorofhumans.begin()+rand()%vectorofhumans.size();
-    std::vector<Zombie *>::iterator zombieopponent=vectorofzombies.begin()+rand()%vectorofzombies.size();
-    int humanattack=(*humanopponent)->attack()+_humanpower;
-    int humandodge=(*humanopponent)->dodgechance()+_humanagility;
+    std::vector<Human *>::iterator humanOpponent=vectorOfHumans.begin()+rand()%vectorOfHumans.size();
+    std::vector<Zombie *>::iterator zombieOpponent=vectorOfZombies.begin()+rand()%vectorOfZombies.size();
+    int humanAttack=(*humanOpponent)->attack()+_humanPower;
+    int humanDodge=(*humanOpponent)->dodgeChance()+_humanAgility;
+    if(outputInfo) output<<"Fight between \n"<<(*humanOpponent)->description()<<"and \n"<<(*zombieOpponent)->description();
     while(1)
     {
         if(rand()%2==0)
         {
-            if((*zombieopponent)->tryattack() && rand()%100+1<=humandodge)
+            if((*zombieOpponent)->tryAttack() && rand()%100+1<=humanDodge)
             {
-                changehumantozombie(humanopponent);
-                //cout<<"Zombie won in first move"<<endl;
+                changeHumanToZombie(humanOpponent);
+                output<<"Zombie won in first move \n"; if(outputInfo) output<<"\n";
                 break;
             }
         }
-        if(rand()%100+1<=(*humanopponent)->attackchance() && !((*humanopponent)->isdead()))
+        if(rand()%100+1<=(*humanOpponent)->attackChance() && !((*humanOpponent)->isDead()))
         {
-            (*zombieopponent)->damage(humanattack);
-            if((*zombieopponent)->isdead())
+            (*zombieOpponent)->damage(humanAttack);
+            if((*zombieOpponent)->isDead())
             {
-                //delete (*zombieopponent);
-                vectorofzombies.erase(zombieopponent);
-                if((*zombieopponent)->who()==1)
+                vectorOfZombies.erase(zombieOpponent);
+                if((*zombieOpponent)->who()==1)
                 {
-                    //cout<<"BOMBER"<<endl;
-                    std::vector<Human *>::iterator it=humanopponent;
+                    output<<"BOMBED \n";
+                    std::vector<Human *>::iterator it=humanOpponent;
                     it-=2; int kills=rand()%4+2;
-                    while(it>vectorofhumans.begin() && it<vectorofhumans.end() && kills)
+                    while(it>vectorOfHumans.begin() && it<vectorOfHumans.end() && kills)
                     {
-                        changehumantozombie(it);
+                        changeHumanToZombie(it);
                         it++; kills--;
                     }
                 }
-                //cout<<"Human won"<<endl;
+                output<<"Human won \n"; if(outputInfo) output<<"\n";
                 break;
             }
         }
-        if(!((*zombieopponent)->isdead()) && (*zombieopponent)->tryattack() && rand()%100+1>humandodge)
+        if(!((*zombieOpponent)->isDead()) && (*zombieOpponent)->tryAttack() && rand()%100+1>humanDodge)
         {
-            changehumantozombie(humanopponent);
-            //cout<<"Zombie won"<<endl;
+            changeHumanToZombie(humanOpponent);
+            output<<"Zombie won \n"; if(outputInfo) output<<"\n";
             break;
         }
     }
 }
 
-void Country::spreadvirus(int i)
+void Country::spreadVirus(int i, fstream &output)
 {
     int days=_environment+4;
     if(i%(days)==0)
     {
-        std::vector<Human *>::iterator ite=vectorofhumans.begin()+rand()%vectorofhumans.size();
-        changehumantozombie(ite);
+        std::vector<Human *>::iterator ite=vectorOfHumans.begin()+rand()%vectorOfHumans.size();
+        changeHumanToZombie(ite);
+        output<<"One random human turned to zombie \n";
     }
 }
 
-bool Country::searchforcure()
+bool Country::searchForCure(fstream &output)
 {
-    std::vector<int> scientistsvector;
-    scientistsvector.clear();
-    std::vector<Human *>::iterator it=vectorofhumans.begin();
-    while(it!=vectorofhumans.end())
+    std::vector<int> scientistVector;
+    scientistVector.clear();
+    std::vector<Human *>::iterator it=vectorOfHumans.begin();
+    while(it!=vectorOfHumans.end())
     {
-        if((*it)->who()==1) scientistsvector.push_back((*it)->intelligence());
+        if((*it)->who()==1) scientistVector.push_back((*it)->intelligence());
         it++;
     }
     unsigned int i=0;
     do
     {
-        if(scientistsvector.size()!=0 && _cure>0 && rand()%5==0)//25% szans ze zrobiono postep
-            _cure-=scientistsvector[rand()%scientistsvector.size()];
+        if(scientistVector.size()!=0 && _cure>0 && rand()%5==0)//25% szans ze zrobiono postep
+            _cure-=scientistVector[rand()%scientistVector.size()];
         if(_cure<0) _cure=0;
         i++;
-    }while(i<(scientistsvector.size()/10));
+    }while(i<(scientistVector.size()/10));
+    output<<"Cure progress: "<<to_string(_cure)<<"\n";
     if(_cure>0) return false;
     else return true;
 }
 
-void Country::curesomezombies()
+void Country::cureSomeZombies(fstream &output)
 {
-    for(int i=0; i<rand()%5+5; i++)//leczenie zombiaków, min 5 naraz (obszarowo rozpylany lek)
+    int r=rand()%5+5;
+    for(int i=0; i<r; i++)//leczenie zombiaków, min 5 naraz (obszarowo rozpylany lek)
     {
-        if(vectorofzombies.size())
+        if(vectorOfZombies.size())
         {
-            std::vector<Zombie *>::iterator ite=vectorofzombies.begin()+rand()%vectorofzombies.size();
+            std::vector<Zombie *>::iterator ite=vectorOfZombies.begin()+rand()%vectorOfZombies.size();
             delete *ite;
-            vectorofzombies.erase(ite);
-            vectorofhumans.push_back(new CommonHuman);
+            vectorOfZombies.erase(ite);
+            vectorOfHumans.push_back(new CommonHuman);
         }
     }
+    output<<to_string(r)<<" Zombies cured \n";
 }
 

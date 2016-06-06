@@ -1,0 +1,8233 @@
+NEW COUNTRY NEW SIMULATION 
+Vectorofhumans: 900  Vectorofzombies: 100
+Scientists: 15  Soldiers: 100  Commons: 785
+Cure progress (0 means ready): 10000
+Zombie won 
+Cure progress: 9908
+Zombie won 
+Cure progress: 9908
+Zombie won in first move 
+Cure progress: 9908
+Zombie won 
+Cure progress: 9889
+Human won 
+Cure progress: 9889
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9889
+Zombie won 
+Cure progress: 9889
+Human won 
+Cure progress: 9889
+Human won 
+Cure progress: 9889
+Human won 
+Cure progress: 9889
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9889
+Human won 
+Cure progress: 9889
+Zombie won in first move 
+Cure progress: 9889
+Zombie won in first move 
+Cure progress: 9889
+Zombie won in first move 
+Cure progress: 9889
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9889
+Human won 
+Cure progress: 9889
+Human won 
+Cure progress: 9889
+Human won 
+Cure progress: 9889
+Zombie won 
+Cure progress: 9856
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9810
+Zombie won in first move 
+Cure progress: 9810
+Zombie won in first move 
+Cure progress: 9810
+Human won 
+Cure progress: 9810
+Zombie won 
+Cure progress: 9810
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9810
+Human won 
+Cure progress: 9810
+Human won 
+Cure progress: 9810
+Zombie won 
+Cure progress: 9810
+Human won 
+Cure progress: 9810
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9722
+Human won 
+Cure progress: 9722
+Human won 
+Cure progress: 9722
+BOMBED 
+Human won 
+Cure progress: 9722
+Human won 
+Cure progress: 9638
+One random human turned to zombie 
+Human won 
+Cure progress: 9638
+Zombie won in first move 
+Cure progress: 9638
+Human won 
+Cure progress: 9638
+Human won 
+Cure progress: 9619
+Zombie won in first move 
+Cure progress: 9619
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9619
+Zombie won 
+Cure progress: 9619
+Human won 
+Cure progress: 9534
+Zombie won 
+Cure progress: 9530
+Human won 
+Cure progress: 9530
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9530
+Human won 
+Cure progress: 9530
+Human won 
+Cure progress: 9511
+Zombie won 
+Cure progress: 9511
+Zombie won in first move 
+Cure progress: 9511
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9427
+Zombie won in first move 
+Cure progress: 9427
+Zombie won 
+Cure progress: 9342
+Human won 
+Cure progress: 9342
+Human won 
+Cure progress: 9342
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9342
+Zombie won 
+Cure progress: 9342
+Zombie won 
+Cure progress: 9342
+Human won 
+Cure progress: 9342
+Zombie won 
+Cure progress: 9342
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9342
+Zombie won in first move 
+Cure progress: 9342
+Zombie won in first move 
+Cure progress: 9342
+Human won 
+Cure progress: 9342
+Zombie won 
+Cure progress: 9342
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9303
+Human won 
+Cure progress: 9303
+Zombie won 
+Cure progress: 9303
+Human won 
+Cure progress: 9214
+Zombie won in first move 
+Cure progress: 9195
+One random human turned to zombie 
+Human won 
+Cure progress: 9195
+Zombie won 
+Cure progress: 9195
+Human won 
+Cure progress: 9195
+Zombie won 
+Cure progress: 9195
+Human won 
+Cure progress: 9176
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9176
+Zombie won 
+Cure progress: 9157
+Zombie won in first move 
+Cure progress: 9124
+Zombie won 
+Cure progress: 9124
+Human won 
+Cure progress: 9124
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9124
+Human won 
+Cure progress: 9124
+Human won 
+Cure progress: 9124
+Zombie won 
+Cure progress: 9124
+Zombie won in first move 
+Cure progress: 9124
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9105
+Zombie won 
+Cure progress: 9020
+Human won 
+Cure progress: 9020
+Zombie won 
+Cure progress: 9020
+Zombie won 
+Cure progress: 9020
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9020
+Zombie won in first move 
+Cure progress: 8932
+Human won 
+Cure progress: 8932
+Human won 
+Cure progress: 8932
+Human won 
+Cure progress: 8932
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8913
+Zombie won 
+Cure progress: 8913
+Human won 
+Cure progress: 8913
+Zombie won in first move 
+Cure progress: 8913
+Zombie won 
+Cure progress: 8913
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8913
+Zombie won 
+Cure progress: 8894
+Human won 
+Cure progress: 8894
+Human won 
+Cure progress: 8873
+Human won 
+Cure progress: 8873
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8873
+Zombie won 
+Cure progress: 8873
+Zombie won 
+Cure progress: 8873
+Zombie won 
+Cure progress: 8873
+Zombie won 
+Cure progress: 8852
+One random human turned to zombie 
+Human won 
+Cure progress: 8852
+Human won 
+Cure progress: 8819
+Human won 
+Cure progress: 8819
+Zombie won in first move 
+Cure progress: 8819
+Human won 
+Cure progress: 8819
+One random human turned to zombie 
+Human won 
+Cure progress: 8819
+Human won 
+Cure progress: 8819
+Zombie won 
+Cure progress: 8819
+BOMBED 
+Human won 
+Cure progress: 8819
+Human won 
+Cure progress: 8819
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8819
+Zombie won 
+Cure progress: 8735
+Zombie won 
+Cure progress: 8735
+Zombie won in first move 
+Cure progress: 8735
+Zombie won in first move 
+Cure progress: 8735
+One random human turned to zombie 
+Human won 
+Cure progress: 8735
+Human won 
+Cure progress: 8735
+Human won 
+Cure progress: 8735
+Human won 
+Cure progress: 8735
+Human won 
+Cure progress: 8735
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8735
+Zombie won in first move 
+Cure progress: 8684
+Zombie won 
+Cure progress: 8633
+Zombie won in first move 
+Cure progress: 8633
+BOMBED 
+Human won 
+Cure progress: 8633
+One random human turned to zombie 
+Human won 
+Cure progress: 8541
+Zombie won in first move 
+Cure progress: 8541
+Human won 
+Cure progress: 8541
+Zombie won 
+Cure progress: 8541
+Zombie won 
+Cure progress: 8541
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8541
+Zombie won in first move 
+Cure progress: 8541
+Zombie won 
+Cure progress: 8520
+Zombie won 
+Cure progress: 8474
+Human won 
+Cure progress: 8474
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8474
+Human won 
+Cure progress: 8474
+Zombie won in first move 
+Cure progress: 8474
+Human won 
+Cure progress: 8455
+Human won 
+Cure progress: 8455
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8455
+Zombie won in first move 
+Cure progress: 8409
+Zombie won 
+Cure progress: 8409
+Zombie won in first move 
+Cure progress: 8409
+Zombie won 
+Cure progress: 8409
+One random human turned to zombie 
+Human won 
+Cure progress: 8409
+Human won 
+Cure progress: 8409
+Zombie won in first move 
+Cure progress: 8409
+Zombie won in first move 
+Cure progress: 8409
+Human won 
+Cure progress: 8409
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8409
+Human won 
+Cure progress: 8409
+Human won 
+Cure progress: 8409
+Zombie won in first move 
+Cure progress: 8409
+Zombie won in first move 
+Cure progress: 8409
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8409
+Human won 
+Cure progress: 8409
+Zombie won in first move 
+Cure progress: 8409
+BOMBED 
+Human won 
+Cure progress: 8409
+Zombie won in first move 
+Cure progress: 8409
+One random human turned to zombie 
+Human won 
+Cure progress: 8409
+Human won 
+Cure progress: 8409
+Zombie won in first move 
+Cure progress: 8376
+Human won 
+Cure progress: 8284
+Zombie won 
+Cure progress: 8284
+One random human turned to zombie 
+Human won 
+Cure progress: 8284
+Human won 
+Cure progress: 8284
+Human won 
+Cure progress: 8233
+Human won 
+Cure progress: 8233
+Human won 
+Cure progress: 8233
+One random human turned to zombie 
+Human won 
+Cure progress: 8233
+Zombie won 
+Cure progress: 8233
+Zombie won in first move 
+Cure progress: 8233
+Human won 
+Cure progress: 8233
+Human won 
+Cure progress: 8187
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8187
+Zombie won 
+Cure progress: 8136
+Human won 
+Cure progress: 8090
+Zombie won in first move 
+Cure progress: 8090
+Zombie won 
+Cure progress: 8071
+One random human turned to zombie 
+Human won 
+Cure progress: 8071
+Human won 
+Cure progress: 8071
+Zombie won 
+Cure progress: 8071
+Zombie won in first move 
+Cure progress: 8071
+Zombie won in first move 
+Cure progress: 8071
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8071
+Human won 
+Cure progress: 7987
+Human won 
+Cure progress: 7903
+Zombie won 
+Cure progress: 7903
+Human won 
+Cure progress: 7815
+One random human turned to zombie 
+Human won 
+Cure progress: 7815
+Zombie won in first move 
+Cure progress: 7764
+Human won 
+Cure progress: 7764
+Human won 
+Cure progress: 7743
+Human won 
+Cure progress: 7658
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7574
+Human won 
+Cure progress: 7574
+Human won 
+Cure progress: 7574
+Human won 
+Cure progress: 7541
+Human won 
+Cure progress: 7541
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7541
+Zombie won 
+Cure progress: 7449
+Zombie won 
+Cure progress: 7449
+Zombie won 
+Cure progress: 7449
+Human won 
+Cure progress: 7403
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7364
+Human won 
+Cure progress: 7364
+Human won 
+Cure progress: 7364
+Human won 
+Cure progress: 7364
+Zombie won 
+Cure progress: 7318
+One random human turned to zombie 
+Human won 
+Cure progress: 7318
+Human won 
+Cure progress: 7318
+Human won 
+Cure progress: 7318
+Zombie won 
+Cure progress: 7318
+Human won 
+Cure progress: 7318
+One random human turned to zombie 
+Human won 
+Cure progress: 7318
+Human won 
+Cure progress: 7318
+BOMBED 
+Human won 
+Cure progress: 7299
+Zombie won 
+Cure progress: 7299
+Human won 
+Cure progress: 7299
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7299
+Zombie won 
+Cure progress: 7299
+Zombie won in first move 
+Cure progress: 7299
+Zombie won 
+Cure progress: 7299
+Zombie won 
+Cure progress: 7299
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7299
+Zombie won in first move 
+Cure progress: 7299
+Zombie won in first move 
+Cure progress: 7299
+Zombie won in first move 
+Cure progress: 7299
+Human won 
+Cure progress: 7299
+One random human turned to zombie 
+Human won 
+Cure progress: 7299
+Human won 
+Cure progress: 7299
+Human won 
+Cure progress: 7299
+Zombie won 
+Cure progress: 7299
+Human won 
+Cure progress: 7299
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7299
+BOMBED 
+Human won 
+Cure progress: 7299
+Human won 
+Cure progress: 7299
+Zombie won 
+Cure progress: 7299
+Human won 
+Cure progress: 7299
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 7299
+BOMBED 
+Human won 
+Cure progress: 7299
+Human won 
+Cure progress: 7299
+Human won 
+Cure progress: 7248
+Zombie won 
+Cure progress: 7248
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7248
+Zombie won 
+Cure progress: 7248
+Human won 
+Cure progress: 7202
+Zombie won in first move 
+Cure progress: 7202
+Human won 
+Cure progress: 7202
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7202
+Zombie won 
+Cure progress: 7202
+Zombie won 
+Cure progress: 7202
+Human won 
+Cure progress: 7202
+Human won 
+Cure progress: 7202
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7202
+Human won 
+Cure progress: 7151
+Human won 
+Cure progress: 7151
+BOMBED 
+Human won 
+Cure progress: 7151
+Human won 
+Cure progress: 7151
+One random human turned to zombie 
+Human won 
+Cure progress: 7067
+BOMBED 
+Human won 
+Cure progress: 7067
+Human won 
+Cure progress: 7067
+Zombie won in first move 
+Cure progress: 7067
+Zombie won in first move 
+Cure progress: 7067
+One random human turned to zombie 
+Human won 
+Cure progress: 7067
+Zombie won 
+Cure progress: 7067
+Zombie won in first move 
+Cure progress: 7067
+Zombie won in first move 
+Cure progress: 7067
+Human won 
+Cure progress: 7067
+One random human turned to zombie 
+Human won 
+Cure progress: 7067
+Zombie won in first move 
+Cure progress: 7067
+Human won 
+Cure progress: 7067
+Human won 
+Cure progress: 7016
+Zombie won in first move 
+Cure progress: 7016
+One random human turned to zombie 
+Human won 
+Cure progress: 7016
+Human won 
+Cure progress: 6965
+Human won 
+Cure progress: 6965
+Zombie won 
+Cure progress: 6877
+Human won 
+Cure progress: 6877
+One random human turned to zombie 
+Human won 
+Cure progress: 6877
+Human won 
+Cure progress: 6877
+Zombie won 
+Cure progress: 6877
+Zombie won 
+Cure progress: 6877
+Human won 
+Cure progress: 6877
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6877
+Human won 
+Cure progress: 6877
+Human won 
+Cure progress: 6856
+Zombie won 
+Cure progress: 6856
+Zombie won 
+Cure progress: 6764
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6680
+Human won 
+Cure progress: 6680
+Zombie won in first move 
+Cure progress: 6680
+Zombie won 
+Cure progress: 6680
+Human won 
+Cure progress: 6680
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6680
+Human won 
+Cure progress: 6680
+Zombie won 
+Cure progress: 6680
+Zombie won 
+Cure progress: 6680
+Human won 
+Cure progress: 6595
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6549
+Human won 
+Cure progress: 6549
+Human won 
+Cure progress: 6549
+Human won 
+Cure progress: 6498
+Human won 
+Cure progress: 6498
+One random human turned to zombie 
+Human won 
+Cure progress: 6465
+Human won 
+Cure progress: 6465
+Zombie won in first move 
+Cure progress: 6465
+Human won 
+Cure progress: 6465
+BOMBED 
+Human won 
+Cure progress: 6465
+One random human turned to zombie 
+Human won 
+Cure progress: 6414
+Zombie won in first move 
+Cure progress: 6414
+Human won 
+Cure progress: 6322
+Human won 
+Cure progress: 6322
+Zombie won in first move 
+Cure progress: 6322
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 6322
+Zombie won in first move 
+Cure progress: 6322
+Human won 
+Cure progress: 6322
+BOMBED 
+Human won 
+Cure progress: 6322
+Zombie won 
+Cure progress: 6322
+One random human turned to zombie 
+Human won 
+Cure progress: 6322
+Human won 
+Cure progress: 6237
+Zombie won 
+Cure progress: 6237
+Zombie won 
+Cure progress: 6148
+Zombie won 
+Cure progress: 6148
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6148
+Human won 
+Cure progress: 6148
+BOMBED 
+Human won 
+Cure progress: 6109
+Human won 
+Cure progress: 6109
+BOMBED 
+Human won 
+Cure progress: 6109
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6109
+Zombie won 
+Cure progress: 6109
+Human won 
+Cure progress: 6109
+Human won 
+Cure progress: 6020
+Zombie won 
+Cure progress: 6020
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 6020
+Zombie won 
+Cure progress: 6020
+Human won 
+Cure progress: 6020
+Zombie won 
+Cure progress: 5931
+Human won 
+Cure progress: 5931
+One random human turned to zombie 
+Human won 
+Cure progress: 5931
+Human won 
+Cure progress: 5931
+Zombie won in first move 
+Cure progress: 5892
+Zombie won 
+Cure progress: 5892
+Human won 
+Cure progress: 5846
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5846
+Zombie won 
+Cure progress: 5846
+Human won 
+Cure progress: 5813
+Zombie won 
+Cure progress: 5762
+Human won 
+Cure progress: 5762
+One random human turned to zombie 
+Human won 
+Cure progress: 5762
+Zombie won in first move 
+Cure progress: 5762
+Zombie won 
+Cure progress: 5762
+Human won 
+Cure progress: 5762
+Zombie won 
+Cure progress: 5762
+One random human turned to zombie 
+Human won 
+Cure progress: 5762
+Human won 
+Cure progress: 5743
+Zombie won in first move 
+Cure progress: 5743
+Human won 
+Cure progress: 5743
+Human won 
+Cure progress: 5743
+One random human turned to zombie 
+Human won 
+Cure progress: 5743
+Human won 
+Cure progress: 5658
+Zombie won 
+Cure progress: 5658
+Zombie won 
+Cure progress: 5658
+Human won 
+Cure progress: 5658
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 5658
+Zombie won 
+Cure progress: 5570
+Human won 
+Cure progress: 5570
+Zombie won in first move 
+Cure progress: 5570
+Human won 
+Cure progress: 5570
+One random human turned to zombie 
+Human won 
+Cure progress: 5570
+Human won 
+Cure progress: 5570
+Human won 
+Cure progress: 5570
+Zombie won in first move 
+Cure progress: 5570
+BOMBED 
+Human won 
+Cure progress: 5570
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5482
+Zombie won 
+Cure progress: 5482
+Human won 
+Cure progress: 5482
+Zombie won in first move 
+Cure progress: 5482
+Human won 
+Cure progress: 5482
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5482
+Zombie won in first move 
+Cure progress: 5431
+Zombie won in first move 
+Cure progress: 5431
+Human won 
+Cure progress: 5343
+BOMBED 
+Human won 
+Cure progress: 5343
+One random human turned to zombie 
+Human won 
+Cure progress: 5343
+Zombie won in first move 
+Cure progress: 5343
+Zombie won in first move 
+Cure progress: 5343
+Zombie won in first move 
+Cure progress: 5292
+Zombie won in first move 
+Cure progress: 5292
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5292
+Human won 
+Cure progress: 5292
+Human won 
+Cure progress: 5246
+Human won 
+Cure progress: 5246
+Zombie won in first move 
+Cure progress: 5246
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5246
+Human won 
+Cure progress: 5246
+Zombie won in first move 
+Cure progress: 5246
+Zombie won in first move 
+Cure progress: 5246
+Zombie won 
+Cure progress: 5162
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5073
+Human won 
+Cure progress: 5073
+Zombie won in first move 
+Cure progress: 5073
+Zombie won 
+Cure progress: 5027
+Zombie won 
+Cure progress: 5027
+One random human turned to zombie 
+Human won 
+Cure progress: 5027
+Human won 
+Cure progress: 5027
+Human won 
+Cure progress: 5027
+Human won 
+Cure progress: 5027
+Human won 
+Cure progress: 5027
+One random human turned to zombie 
+Human won 
+Cure progress: 5027
+Zombie won 
+Cure progress: 5027
+Zombie won in first move 
+Cure progress: 4981
+Zombie won in first move 
+Cure progress: 4981
+Human won 
+Cure progress: 4896
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4896
+Zombie won 
+Cure progress: 4896
+Human won 
+Cure progress: 4896
+Human won 
+Cure progress: 4896
+Human won 
+Cure progress: 4896
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4812
+Human won 
+Cure progress: 4812
+Human won 
+Cure progress: 4812
+Zombie won 
+Cure progress: 4812
+Human won 
+Cure progress: 4812
+One random human turned to zombie 
+Human won 
+Cure progress: 4812
+Human won 
+Cure progress: 4812
+Zombie won 
+Cure progress: 4766
+Zombie won 
+Cure progress: 4766
+Zombie won in first move 
+Cure progress: 4766
+One random human turned to zombie 
+Human won 
+Cure progress: 4715
+Zombie won 
+Cure progress: 4715
+Human won 
+Cure progress: 4715
+Zombie won in first move 
+Cure progress: 4715
+Human won 
+Cure progress: 4627
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4627
+Zombie won 
+Cure progress: 4627
+Human won 
+Cure progress: 4627
+Human won 
+Cure progress: 4627
+Zombie won 
+Cure progress: 4627
+One random human turned to zombie 
+Human won 
+Cure progress: 4627
+Zombie won in first move 
+Cure progress: 4627
+Human won 
+Cure progress: 4542
+Zombie won 
+Cure progress: 4542
+Zombie won in first move 
+Cure progress: 4542
+One random human turned to zombie 
+Human won 
+Cure progress: 4542
+Human won 
+Cure progress: 4542
+Zombie won 
+Cure progress: 4542
+Human won 
+Cure progress: 4542
+Human won 
+Cure progress: 4523
+One random human turned to zombie 
+Human won 
+Cure progress: 4523
+Zombie won 
+Cure progress: 4523
+Zombie won 
+Cure progress: 4523
+Human won 
+Cure progress: 4523
+Zombie won in first move 
+Cure progress: 4523
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4523
+Zombie won in first move 
+Cure progress: 4523
+Human won 
+Cure progress: 4523
+Zombie won 
+Cure progress: 4523
+Zombie won 
+Cure progress: 4523
+One random human turned to zombie 
+Human won 
+Cure progress: 4523
+Human won 
+Cure progress: 4523
+Zombie won 
+Cure progress: 4439
+Zombie won 
+Cure progress: 4350
+Zombie won in first move 
+Cure progress: 4350
+One random human turned to zombie 
+Human won 
+Cure progress: 4266
+Human won 
+Cure progress: 4266
+Zombie won 
+Cure progress: 4266
+Human won 
+Cure progress: 4174
+Human won 
+Cure progress: 4085
+One random human turned to zombie 
+Human won 
+Cure progress: 4085
+Human won 
+Cure progress: 4085
+Zombie won in first move 
+Cure progress: 4085
+Zombie won 
+Cure progress: 4001
+Human won 
+Cure progress: 4001
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3916
+Human won 
+Cure progress: 3916
+Human won 
+Cure progress: 3916
+Human won 
+Cure progress: 3916
+Zombie won in first move 
+Cure progress: 3832
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 3832
+Zombie won in first move 
+Cure progress: 3832
+Zombie won in first move 
+Cure progress: 3832
+BOMBED 
+Human won 
+Cure progress: 3747
+Human won 
+Cure progress: 3701
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3701
+Human won 
+Cure progress: 3701
+Zombie won in first move 
+Cure progress: 3701
+Zombie won in first move 
+Cure progress: 3650
+Zombie won 
+Cure progress: 3650
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 3650
+Zombie won 
+Cure progress: 3650
+Human won 
+Cure progress: 3650
+Zombie won in first move 
+Cure progress: 3650
+Human won 
+Cure progress: 3650
+One random human turned to zombie 
+Human won 
+Cure progress: 3650
+Human won 
+Cure progress: 3650
+BOMBED 
+Human won 
+Cure progress: 3650
+Zombie won 
+Cure progress: 3650
+Zombie won in first move 
+Cure progress: 3650
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3650
+Human won 
+Cure progress: 3561
+Human won 
+Cure progress: 3561
+Human won 
+Cure progress: 3561
+Human won 
+Cure progress: 3561
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3561
+Human won 
+Cure progress: 3561
+Zombie won 
+Cure progress: 3561
+Human won 
+Cure progress: 3561
+Human won 
+Cure progress: 3561
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3561
+Human won 
+Cure progress: 3561
+Zombie won 
+Cure progress: 3561
+Zombie won 
+Cure progress: 3476
+Human won 
+Cure progress: 3476
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 3430
+Human won 
+Cure progress: 3430
+Human won 
+Cure progress: 3430
+Human won 
+Cure progress: 3384
+Zombie won in first move 
+Cure progress: 3384
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3384
+Zombie won 
+Cure progress: 3384
+Human won 
+Cure progress: 3292
+Zombie won 
+Cure progress: 3292
+Human won 
+Cure progress: 3292
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3292
+Human won 
+Cure progress: 3241
+Zombie won in first move 
+Cure progress: 3241
+Zombie won 
+Cure progress: 3241
+Human won 
+Cure progress: 3241
+One random human turned to zombie 
+Human won 
+Cure progress: 3241
+Zombie won in first move 
+Cure progress: 3241
+Human won 
+Cure progress: 3195
+Human won 
+Cure progress: 3195
+BOMBED 
+Human won 
+Cure progress: 3195
+One random human turned to zombie 
+Human won 
+Cure progress: 3195
+Zombie won 
+Cure progress: 3195
+Zombie won 
+Cure progress: 3176
+Zombie won 
+Cure progress: 3176
+Human won 
+Cure progress: 3176
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 3176
+Human won 
+Cure progress: 3176
+Human won 
+Cure progress: 3176
+Zombie won 
+Cure progress: 3176
+Zombie won 
+Cure progress: 3092
+One random human turned to zombie 
+Human won 
+Cure progress: 3092
+Zombie won in first move 
+Cure progress: 3092
+Human won 
+Cure progress: 3092
+Human won 
+Cure progress: 3092
+Zombie won 
+Cure progress: 3092
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3046
+Zombie won 
+Cure progress: 2995
+Human won 
+Cure progress: 2995
+Zombie won in first move 
+Cure progress: 2995
+Human won 
+Cure progress: 2995
+One random human turned to zombie 
+Human won 
+Cure progress: 2995
+Zombie won in first move 
+Cure progress: 2995
+Human won 
+Cure progress: 2903
+Human won 
+Cure progress: 2903
+Human won 
+Cure progress: 2903
+One random human turned to zombie 
+Human won 
+Cure progress: 2884
+Human won 
+Cure progress: 2884
+Zombie won 
+Cure progress: 2884
+Human won 
+Cure progress: 2884
+Zombie won in first move 
+Cure progress: 2884
+One random human turned to zombie 
+Zombie won 
+Cure progress: 2884
+Human won 
+Cure progress: 2884
+Human won 
+Cure progress: 2884
+Zombie won in first move 
+Cure progress: 2884
+Zombie won 
+Cure progress: 2799
+One random human turned to zombie 
+Human won 
+Cure progress: 2799
+Zombie won in first move 
+Cure progress: 2714
+Zombie won 
+Cure progress: 2714
+Human won 
+Cure progress: 2714
+Zombie won 
+Cure progress: 2714
+One random human turned to zombie 
+Human won 
+Cure progress: 2626
+Human won 
+Cure progress: 2626
+Zombie won 
+Cure progress: 2538
+Human won 
+Cure progress: 2538
+Zombie won 
+Cure progress: 2538
+One random human turned to zombie 
+Zombie won 
+Cure progress: 2450
+Zombie won in first move 
+Cure progress: 2450
+Zombie won 
+Cure progress: 2450
+Human won 
+Cure progress: 2450
+Human won 
+Cure progress: 2450
+One random human turned to zombie 
+Human won 
+Cure progress: 2450
+Zombie won 
+Cure progress: 2450
+Human won 
+Cure progress: 2450
+Zombie won 
+Cure progress: 2450
+Zombie won 
+Cure progress: 2399
+One random human turned to zombie 
+Human won 
+Cure progress: 2348
+Zombie won 
+Cure progress: 2348
+Zombie won 
+Cure progress: 2302
+Human won 
+Cure progress: 2302
+Human won 
+Cure progress: 2302
+One random human turned to zombie 
+Human won 
+Cure progress: 2302
+Zombie won 
+Cure progress: 2302
+Zombie won 
+Cure progress: 2302
+Zombie won 
+Cure progress: 2302
+Zombie won 
+Cure progress: 2302
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2302
+Zombie won 
+Cure progress: 2302
+BOMBED 
+Human won 
+Cure progress: 2302
+Zombie won 
+Cure progress: 2302
+Human won 
+Cure progress: 2302
+One random human turned to zombie 
+Human won 
+Cure progress: 2302
+Zombie won in first move 
+Cure progress: 2302
+Zombie won 
+Cure progress: 2302
+Zombie won in first move 
+Cure progress: 2302
+Zombie won 
+Cure progress: 2256
+One random human turned to zombie 
+Human won 
+Cure progress: 2168
+Zombie won in first move 
+Cure progress: 2168
+Zombie won in first move 
+Cure progress: 2076
+Zombie won in first move 
+Cure progress: 2076
+BOMBED 
+Human won 
+Cure progress: 2076
+One random human turned to zombie 
+Human won 
+Cure progress: 2076
+Human won 
+Cure progress: 2076
+Zombie won in first move 
+Cure progress: 2076
+Human won 
+Cure progress: 2076
+Human won 
+Cure progress: 2076
+One random human turned to zombie 
+Zombie won 
+Cure progress: 2076
+Human won 
+Cure progress: 2076
+Zombie won 
+Cure progress: 2076
+Zombie won 
+Cure progress: 2076
+Human won 
+Cure progress: 2076
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 2076
+Zombie won in first move 
+Cure progress: 2037
+Human won 
+Cure progress: 1953
+BOMBED 
+Human won 
+Cure progress: 1953
+Human won 
+Cure progress: 1953
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1953
+Zombie won in first move 
+Cure progress: 1907
+Human won 
+Cure progress: 1823
+Zombie won 
+Cure progress: 1739
+Human won 
+Cure progress: 1700
+One random human turned to zombie 
+Human won 
+Cure progress: 1700
+Zombie won 
+Cure progress: 1681
+Human won 
+Cure progress: 1681
+Zombie won in first move 
+Cure progress: 1681
+Human won 
+Cure progress: 1635
+One random human turned to zombie 
+Human won 
+Cure progress: 1635
+Human won 
+Cure progress: 1635
+Human won 
+Cure progress: 1635
+Human won 
+Cure progress: 1635
+Human won 
+Cure progress: 1635
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 1635
+Human won 
+Cure progress: 1635
+Human won 
+Cure progress: 1635
+Human won 
+Cure progress: 1635
+Zombie won 
+Cure progress: 1547
+One random human turned to zombie 
+Human won 
+Cure progress: 1547
+Human won 
+Cure progress: 1547
+Human won 
+Cure progress: 1547
+Zombie won 
+Cure progress: 1547
+Human won 
+Cure progress: 1547
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1547
+Zombie won in first move 
+Cure progress: 1463
+Human won 
+Cure progress: 1463
+Human won 
+Cure progress: 1463
+Zombie won 
+Cure progress: 1463
+One random human turned to zombie 
+Human won 
+Cure progress: 1417
+Zombie won 
+Cure progress: 1417
+Human won 
+Cure progress: 1417
+Zombie won 
+Cure progress: 1417
+Human won 
+Cure progress: 1417
+One random human turned to zombie 
+Human won 
+Cure progress: 1417
+Zombie won in first move 
+Cure progress: 1417
+Zombie won in first move 
+Cure progress: 1417
+Human won 
+Cure progress: 1417
+Human won 
+Cure progress: 1417
+One random human turned to zombie 
+Human won 
+Cure progress: 1371
+Zombie won 
+Cure progress: 1371
+Zombie won 
+Cure progress: 1371
+Human won 
+Cure progress: 1371
+Zombie won 
+Cure progress: 1371
+One random human turned to zombie 
+Human won 
+Cure progress: 1371
+Human won 
+Cure progress: 1371
+Zombie won 
+Cure progress: 1332
+Zombie won 
+Cure progress: 1332
+Zombie won in first move 
+Cure progress: 1332
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 1332
+Zombie won 
+Cure progress: 1332
+Zombie won 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+Zombie won 
+Cure progress: 1332
+One random human turned to zombie 
+Human won 
+Cure progress: 1332
+Zombie won 
+Cure progress: 1332
+Zombie won 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+Zombie won 
+Cure progress: 1332
+One random human turned to zombie 
+Human won 
+Cure progress: 1332
+Zombie won 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+BOMBED 
+Human won 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+Zombie won 
+Cure progress: 1332
+Human won 
+Cure progress: 1332
+One random human turned to zombie 
+Human won 
+Cure progress: 1332
+Zombie won in first move 
+Cure progress: 1332
+BOMBED 
+Human won 
+Cure progress: 1332
+Zombie won 
+Cure progress: 1248
+Human won 
+Cure progress: 1164
+One random human turned to zombie 
+Human won 
+Cure progress: 1072
+Human won 
+Cure progress: 1072
+Zombie won in first move 
+Cure progress: 1072
+Zombie won in first move 
+Cure progress: 1072
+Human won 
+Cure progress: 1053
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 1014
+Zombie won 
+Cure progress: 926
+Zombie won in first move 
+Cure progress: 887
+Human won 
+Cure progress: 887
+Human won 
+Cure progress: 887
+One random human turned to zombie 
+Zombie won 
+Cure progress: 887
+Zombie won 
+Cure progress: 887
+Zombie won in first move 
+Cure progress: 887
+Human won 
+Cure progress: 848
+Zombie won 
+Cure progress: 764
+One random human turned to zombie 
+Zombie won 
+Cure progress: 764
+Zombie won 
+Cure progress: 764
+Zombie won in first move 
+Cure progress: 725
+Zombie won 
+Cure progress: 725
+Human won 
+Cure progress: 725
+One random human turned to zombie 
+Human won 
+Cure progress: 725
+Human won 
+Cure progress: 725
+Human won 
+Cure progress: 679
+Zombie won 
+Cure progress: 679
+Human won 
+Cure progress: 679
+One random human turned to zombie 
+Zombie won 
+Cure progress: 679
+Human won 
+Cure progress: 679
+Zombie won in first move 
+Cure progress: 679
+Human won 
+Cure progress: 679
+Human won 
+Cure progress: 679
+One random human turned to zombie 
+Human won 
+Cure progress: 679
+Human won 
+Cure progress: 594
+Human won 
+Cure progress: 594
+Human won 
+Cure progress: 594
+Zombie won in first move 
+Cure progress: 594
+One random human turned to zombie 
+Zombie won 
+Cure progress: 594
+Human won 
+Cure progress: 594
+Zombie won in first move 
+Cure progress: 594
+BOMBED 
+Human won 
+Cure progress: 594
+Zombie won 
+Cure progress: 594
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 594
+Zombie won 
+Cure progress: 594
+BOMBED 
+Human won 
+Cure progress: 594
+Zombie won 
+Cure progress: 594
+Human won 
+Cure progress: 594
+One random human turned to zombie 
+Zombie won 
+Cure progress: 594
+Zombie won 
+Cure progress: 575
+Zombie won 
+Cure progress: 575
+Zombie won 
+Cure progress: 575
+Human won 
+Cure progress: 575
+One random human turned to zombie 
+Zombie won 
+Cure progress: 575
+Human won 
+Cure progress: 529
+Zombie won 
+Cure progress: 529
+Human won 
+Cure progress: 529
+Human won 
+Cure progress: 529
+One random human turned to zombie 
+Human won 
+Cure progress: 529
+Human won 
+Cure progress: 529
+Zombie won 
+Cure progress: 483
+Zombie won 
+Cure progress: 483
+Zombie won in first move 
+Cure progress: 398
+One random human turned to zombie 
+Human won 
+Cure progress: 306
+Human won 
+Cure progress: 260
+Human won 
+Cure progress: 260
+Human won 
+Cure progress: 221
+Human won 
+Cure progress: 133
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 133
+Human won 
+Cure progress: 133
+Human won 
+Cure progress: 45
+Human won 
+Cure progress: 45
+Human won 
+Cure progress: 45
+One random human turned to zombie 
+Human won 
+Cure progress: 45
+Human won 
+Cure progress: 45
+Human won 
+Cure progress: 45
+Human won 
+Cure progress: 45
+Human won 
+Cure progress: 45
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+7 Zombies cured 
+Zombie won 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+6 Zombies cured 
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+7 Zombies cured 
+Human won 
+Cure progress: 0
+8 Zombies cured 
+Zombie won 
+Cure progress: 0
+6 Zombies cured 
+Human won 
+Cure progress: 0
+9 Zombies cured 
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won 
+Cure progress: 0
+BOMBED 
+Human won 
+Cure progress: 0
+9 Zombies cured 
+Human won 
+Cure progress: 0
+6 Zombies cured 
+Zombie won 
+Cure progress: 0
+BOMBED 
+Human won 
+Cure progress: 0
+9 Zombies cured 
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 0
+5 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won 
+Cure progress: 0
+5 Zombies cured 
+Zombie won 
+Cure progress: 0
+5 Zombies cured 
+Human won 
+Cure progress: 0
+9 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+8 Zombies cured 
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+5 Zombies cured 
+Human won 
+Cure progress: 0
+8 Zombies cured 
+Human won 
+Cure progress: 0
+9 Zombies cured 
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+6 Zombies cured 
+Human won 
+Cure progress: 0
+7 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+8 Zombies cured 
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 0
+8 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+6 Zombies cured 
+Human won 
+Cure progress: 0
+6 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+8 Zombies cured 
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+5 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+Human won 
+Cure progress: 0
+7 Zombies cured 
+Human won 
+Cure progress: 0
+8 Zombies cured 
+Zombie won 
+Cure progress: 0
+5 Zombies cured 
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+9 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won 
+Cure progress: 0
+9 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+6 Zombies cured 
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+8 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+9 Zombies cured 
+Zombie won 
+Cure progress: 0
+5 Zombies cured 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+5 Zombies cured 
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+9 Zombies cured 
+Zombie won 
+Cure progress: 0
+5 Zombies cured 
+Zombie won 
+Cure progress: 0
+5 Zombies cured 
+Human won 
+Cure progress: 0
+6 Zombies cured 
+Human won 
+Cure progress: 0
+6 Zombies cured 
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+6 Zombies cured 
+Zombie won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+7 Zombies cured 
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+9 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+5 Zombies cured 
+Zombie won 
+Cure progress: 0
+8 Zombies cured 
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+9 Zombies cured 
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+6 Zombies cured 
+Zombie won 
+Cure progress: 0
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+7 Zombies cured 
+Human won 
+Cure progress: 0
+8 Zombies cured 
+Human won 
+Cure progress: 0
+8 Zombies cured 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+5 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+9 Zombies cured 
+After 913 days: 
+526 Humans, 0 Zombies. 
+Cure progress was: 0 (0 means ready) 
+------------------------------------------------------------------------------------------------------------ 
+NEW COUNTRY NEW SIMULATION 
+Vectorofhumans: 900  Vectorofzombies: 100
+Scientists: 15  Soldiers: 100  Commons: 785
+Cure progress (0 means ready): 10000
+Zombie won 
+Cure progress: 10000
+Human won 
+Cure progress: 10000
+Zombie won in first move 
+Cure progress: 10000
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 10000
+Human won 
+Cure progress: 10000
+Zombie won in first move 
+Cure progress: 10000
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 10000
+Human won 
+Cure progress: 10000
+Zombie won 
+Cure progress: 10000
+One random human turned to zombie 
+Zombie won 
+Cure progress: 10000
+Zombie won 
+Cure progress: 9921
+Human won 
+Cure progress: 9921
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9868
+BOMBED 
+Human won 
+Cure progress: 9868
+Human won 
+Cure progress: 9868
+One random human turned to zombie 
+Human won 
+Cure progress: 9868
+Human won 
+Cure progress: 9868
+Human won 
+Cure progress: 9868
+One random human turned to zombie 
+Human won 
+Cure progress: 9868
+Zombie won 
+Cure progress: 9868
+Human won 
+Cure progress: 9826
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9826
+Human won 
+Cure progress: 9751
+Zombie won 
+Cure progress: 9751
+One random human turned to zombie 
+Human won 
+Cure progress: 9751
+BOMBED 
+Human won 
+Cure progress: 9751
+Human won 
+Cure progress: 9751
+One random human turned to zombie 
+Human won 
+Cure progress: 9751
+Zombie won in first move 
+Cure progress: 9698
+Human won 
+Cure progress: 9698
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9634
+Zombie won 
+Cure progress: 9634
+Human won 
+Cure progress: 9634
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9634
+Zombie won in first move 
+Cure progress: 9559
+Zombie won 
+Cure progress: 9559
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9559
+Human won 
+Cure progress: 9559
+Zombie won in first move 
+Cure progress: 9559
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9559
+Zombie won 
+Cure progress: 9559
+Human won 
+Cure progress: 9559
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9559
+Zombie won 
+Cure progress: 9559
+Human won 
+Cure progress: 9559
+One random human turned to zombie 
+Human won 
+Cure progress: 9559
+Zombie won in first move 
+Cure progress: 9559
+Human won 
+Cure progress: 9559
+One random human turned to zombie 
+Human won 
+Cure progress: 9559
+BOMBED 
+Human won 
+Cure progress: 9517
+BOMBED 
+Human won 
+Cure progress: 9417
+One random human turned to zombie 
+Human won 
+Cure progress: 9417
+Human won 
+Cure progress: 9375
+Zombie won in first move 
+Cure progress: 9375
+One random human turned to zombie 
+Human won 
+Cure progress: 9375
+Human won 
+Cure progress: 9296
+Zombie won in first move 
+Cure progress: 9296
+One random human turned to zombie 
+Human won 
+Cure progress: 9296
+Zombie won 
+Cure progress: 9254
+Zombie won in first move 
+Cure progress: 9254
+One random human turned to zombie 
+Human won 
+Cure progress: 9254
+Zombie won in first move 
+Cure progress: 9254
+Human won 
+Cure progress: 9254
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9254
+Human won 
+Cure progress: 9254
+Human won 
+Cure progress: 9254
+One random human turned to zombie 
+Human won 
+Cure progress: 9254
+BOMBED 
+Human won 
+Cure progress: 9254
+Zombie won 
+Cure progress: 9254
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9254
+Zombie won 
+Cure progress: 9254
+Human won 
+Cure progress: 9254
+One random human turned to zombie 
+Human won 
+Cure progress: 9161
+Human won 
+Cure progress: 9161
+Human won 
+Cure progress: 9161
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 9082
+Human won 
+Cure progress: 9082
+Zombie won 
+Cure progress: 9082
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9018
+Zombie won 
+Cure progress: 9018
+BOMBED 
+Human won 
+Cure progress: 8976
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 8976
+Human won 
+Cure progress: 8976
+Zombie won 
+Cure progress: 8966
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8966
+Zombie won 
+Cure progress: 8966
+Human won 
+Cure progress: 8891
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8891
+Human won 
+Cure progress: 8798
+Zombie won in first move 
+Cure progress: 8798
+One random human turned to zombie 
+Human won 
+Cure progress: 8798
+Human won 
+Cure progress: 8798
+Human won 
+Cure progress: 8719
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8719
+Human won 
+Cure progress: 8719
+Zombie won 
+Cure progress: 8719
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8719
+Human won 
+Cure progress: 8719
+Human won 
+Cure progress: 8719
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8719
+Human won 
+Cure progress: 8719
+Human won 
+Cure progress: 8719
+One random human turned to zombie 
+Human won 
+Cure progress: 8655
+Human won 
+Cure progress: 8655
+Zombie won in first move 
+Cure progress: 8655
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8655
+Zombie won in first move 
+Cure progress: 8655
+Zombie won 
+Cure progress: 8655
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8655
+Human won 
+Cure progress: 8655
+Zombie won in first move 
+Cure progress: 8655
+One random human turned to zombie 
+Human won 
+Cure progress: 8655
+Human won 
+Cure progress: 8655
+Zombie won in first move 
+Cure progress: 8655
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8645
+Human won 
+Cure progress: 8645
+Zombie won 
+Cure progress: 8645
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 8581
+Zombie won in first move 
+Cure progress: 8481
+Zombie won in first move 
+Cure progress: 8481
+One random human turned to zombie 
+Human won 
+Cure progress: 8481
+Zombie won 
+Cure progress: 8481
+Human won 
+Cure progress: 8481
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8428
+Human won 
+Cure progress: 8428
+Zombie won 
+Cure progress: 8428
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8428
+Zombie won in first move 
+Cure progress: 8394
+Human won 
+Cure progress: 8315
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8315
+Human won 
+Cure progress: 8315
+Human won 
+Cure progress: 8315
+One random human turned to zombie 
+Human won 
+Cure progress: 8315
+Human won 
+Cure progress: 8315
+Human won 
+Cure progress: 8315
+One random human turned to zombie 
+Human won 
+Cure progress: 8236
+Human won 
+Cure progress: 8236
+Zombie won 
+Cure progress: 8236
+One random human turned to zombie 
+Human won 
+Cure progress: 8236
+Human won 
+Cure progress: 8236
+Human won 
+Cure progress: 8236
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 8236
+Human won 
+Cure progress: 8236
+Human won 
+Cure progress: 8236
+One random human turned to zombie 
+Human won 
+Cure progress: 8236
+Human won 
+Cure progress: 8236
+Zombie won 
+Cure progress: 8236
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8236
+Human won 
+Cure progress: 8236
+Human won 
+Cure progress: 8236
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8236
+Human won 
+Cure progress: 8157
+Zombie won 
+Cure progress: 8157
+One random human turned to zombie 
+Human won 
+Cure progress: 8157
+Zombie won in first move 
+Cure progress: 8078
+Human won 
+Cure progress: 8078
+One random human turned to zombie 
+Human won 
+Cure progress: 8078
+Zombie won 
+Cure progress: 8078
+Zombie won in first move 
+Cure progress: 8003
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 8003
+Human won 
+Cure progress: 8003
+Zombie won 
+Cure progress: 8003
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 8003
+Human won 
+Cure progress: 7928
+Human won 
+Cure progress: 7928
+One random human turned to zombie 
+Human won 
+Cure progress: 7928
+Zombie won in first move 
+Cure progress: 7928
+Human won 
+Cure progress: 7849
+One random human turned to zombie 
+Human won 
+Cure progress: 7849
+Human won 
+Cure progress: 7815
+Human won 
+Cure progress: 7736
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7736
+Human won 
+Cure progress: 7736
+Human won 
+Cure progress: 7657
+One random human turned to zombie 
+Human won 
+Cure progress: 7657
+Zombie won in first move 
+Cure progress: 7657
+Zombie won 
+Cure progress: 7657
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7657
+Human won 
+Cure progress: 7657
+Zombie won 
+Cure progress: 7657
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7657
+Zombie won in first move 
+Cure progress: 7657
+Human won 
+Cure progress: 7657
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7657
+Zombie won in first move 
+Cure progress: 7657
+Zombie won in first move 
+Cure progress: 7657
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7657
+Zombie won 
+Cure progress: 7657
+Human won 
+Cure progress: 7657
+One random human turned to zombie 
+Human won 
+Cure progress: 7657
+Human won 
+Cure progress: 7657
+Zombie won in first move 
+Cure progress: 7657
+One random human turned to zombie 
+Human won 
+Cure progress: 7657
+Human won 
+Cure progress: 7657
+Zombie won in first move 
+Cure progress: 7557
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7547
+Human won 
+Cure progress: 7547
+Zombie won in first move 
+Cure progress: 7547
+One random human turned to zombie 
+Human won 
+Cure progress: 7505
+Zombie won 
+Cure progress: 7426
+Zombie won 
+Cure progress: 7392
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7392
+Zombie won 
+Cure progress: 7392
+Human won 
+Cure progress: 7392
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7328
+BOMBED 
+Human won 
+Cure progress: 7253
+Human won 
+Cure progress: 7253
+One random human turned to zombie 
+Human won 
+Cure progress: 7219
+Human won 
+Cure progress: 7177
+Zombie won in first move 
+Cure progress: 7135
+One random human turned to zombie 
+Human won 
+Cure progress: 7135
+Zombie won in first move 
+Cure progress: 7135
+Zombie won in first move 
+Cure progress: 7135
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7135
+Zombie won 
+Cure progress: 7135
+Human won 
+Cure progress: 7071
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7071
+Zombie won in first move 
+Cure progress: 7071
+Human won 
+Cure progress: 7071
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7071
+Zombie won in first move 
+Cure progress: 7071
+Zombie won in first move 
+Cure progress: 7071
+One random human turned to zombie 
+Human won 
+Cure progress: 7071
+Human won 
+Cure progress: 7071
+Zombie won in first move 
+Cure progress: 7018
+One random human turned to zombie 
+Human won 
+Cure progress: 7018
+Zombie won 
+Cure progress: 7018
+Zombie won 
+Cure progress: 7018
+One random human turned to zombie 
+Human won 
+Cure progress: 7018
+Human won 
+Cure progress: 7018
+Human won 
+Cure progress: 7018
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7018
+Zombie won 
+Cure progress: 7008
+Zombie won 
+Cure progress: 6929
+One random human turned to zombie 
+Human won 
+Cure progress: 6929
+Human won 
+Cure progress: 6876
+Human won 
+Cure progress: 6876
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6876
+Zombie won 
+Cure progress: 6834
+Zombie won 
+Cure progress: 6834
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6834
+Zombie won 
+Cure progress: 6824
+Human won 
+Cure progress: 6824
+One random human turned to zombie 
+Human won 
+Cure progress: 6824
+Human won 
+Cure progress: 6824
+Zombie won 
+Cure progress: 6824
+One random human turned to zombie 
+Human won 
+Cure progress: 6824
+Human won 
+Cure progress: 6824
+Zombie won 
+Cure progress: 6790
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6790
+Human won 
+Cure progress: 6790
+Zombie won 
+Cure progress: 6748
+One random human turned to zombie 
+Human won 
+Cure progress: 6748
+Zombie won in first move 
+Cure progress: 6748
+Human won 
+Cure progress: 6748
+One random human turned to zombie 
+Human won 
+Cure progress: 6748
+Human won 
+Cure progress: 6748
+Zombie won in first move 
+Cure progress: 6748
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6748
+BOMBED 
+Human won 
+Cure progress: 6673
+Human won 
+Cure progress: 6673
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6673
+Zombie won 
+Cure progress: 6673
+Zombie won 
+Cure progress: 6673
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6673
+Human won 
+Cure progress: 6609
+Human won 
+Cure progress: 6556
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 6556
+Human won 
+Cure progress: 6556
+Human won 
+Cure progress: 6477
+One random human turned to zombie 
+Human won 
+Cure progress: 6477
+Zombie won in first move 
+Cure progress: 6477
+Zombie won in first move 
+Cure progress: 6377
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6377
+BOMBED 
+Human won 
+Cure progress: 6298
+Human won 
+Cure progress: 6298
+One random human turned to zombie 
+Human won 
+Cure progress: 6223
+Human won 
+Cure progress: 6144
+Human won 
+Cure progress: 6144
+One random human turned to zombie 
+Human won 
+Cure progress: 6144
+Zombie won in first move 
+Cure progress: 6144
+Zombie won in first move 
+Cure progress: 6144
+One random human turned to zombie 
+Human won 
+Cure progress: 6144
+Zombie won 
+Cure progress: 6144
+Human won 
+Cure progress: 6144
+One random human turned to zombie 
+Human won 
+Cure progress: 6144
+Human won 
+Cure progress: 6134
+Zombie won 
+Cure progress: 6059
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 6049
+Human won 
+Cure progress: 6049
+Zombie won 
+Cure progress: 6049
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6049
+Zombie won 
+Cure progress: 6049
+Human won 
+Cure progress: 6049
+One random human turned to zombie 
+Human won 
+Cure progress: 6049
+Zombie won 
+Cure progress: 6049
+Human won 
+Cure progress: 5985
+One random human turned to zombie 
+Human won 
+Cure progress: 5985
+Human won 
+Cure progress: 5906
+Human won 
+Cure progress: 5906
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5906
+Zombie won 
+Cure progress: 5806
+Zombie won 
+Cure progress: 5806
+One random human turned to zombie 
+Human won 
+Cure progress: 5806
+Zombie won in first move 
+Cure progress: 5806
+Human won 
+Cure progress: 5727
+One random human turned to zombie 
+Human won 
+Cure progress: 5727
+BOMBED 
+Human won 
+Cure progress: 5727
+Zombie won 
+Cure progress: 5727
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5685
+Zombie won in first move 
+Cure progress: 5685
+BOMBED 
+Human won 
+Cure progress: 5685
+One random human turned to zombie 
+Human won 
+Cure progress: 5685
+Human won 
+Cure progress: 5685
+Zombie won 
+Cure progress: 5685
+One random human turned to zombie 
+Human won 
+Cure progress: 5685
+Human won 
+Cure progress: 5685
+Human won 
+Cure progress: 5685
+One random human turned to zombie 
+Human won 
+Cure progress: 5610
+Human won 
+Cure progress: 5610
+Zombie won 
+Cure progress: 5610
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5610
+Zombie won in first move 
+Cure progress: 5610
+Human won 
+Cure progress: 5610
+One random human turned to zombie 
+Human won 
+Cure progress: 5610
+Human won 
+Cure progress: 5610
+Human won 
+Cure progress: 5610
+One random human turned to zombie 
+Human won 
+Cure progress: 5610
+BOMBED 
+Human won 
+Cure progress: 5610
+Human won 
+Cure progress: 5568
+One random human turned to zombie 
+Human won 
+Cure progress: 5568
+Human won 
+Cure progress: 5493
+Human won 
+Cure progress: 5414
+One random human turned to zombie 
+Human won 
+Cure progress: 5414
+Human won 
+Cure progress: 5361
+Zombie won in first move 
+Cure progress: 5261
+One random human turned to zombie 
+Human won 
+Cure progress: 5182
+Human won 
+Cure progress: 5182
+Zombie won 
+Cure progress: 5182
+One random human turned to zombie 
+Human won 
+Cure progress: 5182
+Human won 
+Cure progress: 5182
+Zombie won in first move 
+Cure progress: 5182
+One random human turned to zombie 
+Human won 
+Cure progress: 5182
+Zombie won in first move 
+Cure progress: 5182
+Human won 
+Cure progress: 5182
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 5182
+Human won 
+Cure progress: 5118
+Human won 
+Cure progress: 5118
+One random human turned to zombie 
+Human won 
+Cure progress: 5118
+Human won 
+Cure progress: 5108
+Zombie won in first move 
+Cure progress: 5108
+One random human turned to zombie 
+Human won 
+Cure progress: 5108
+Zombie won 
+Cure progress: 5108
+Human won 
+Cure progress: 5108
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5108
+Human won 
+Cure progress: 5108
+Human won 
+Cure progress: 5108
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5008
+Zombie won 
+Cure progress: 5008
+Human won 
+Cure progress: 5008
+One random human turned to zombie 
+Human won 
+Cure progress: 5008
+Zombie won 
+Cure progress: 4944
+BOMBED 
+Human won 
+Cure progress: 4944
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4944
+Human won 
+Cure progress: 4880
+Human won 
+Cure progress: 4880
+One random human turned to zombie 
+Human won 
+Cure progress: 4816
+Human won 
+Cure progress: 4816
+Zombie won 
+Cure progress: 4816
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4816
+Human won 
+Cure progress: 4816
+Zombie won in first move 
+Cure progress: 4816
+One random human turned to zombie 
+Human won 
+Cure progress: 4816
+Zombie won 
+Cure progress: 4816
+Zombie won 
+Cure progress: 4816
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4816
+Human won 
+Cure progress: 4816
+Human won 
+Cure progress: 4816
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4752
+Human won 
+Cure progress: 4673
+Human won 
+Cure progress: 4639
+One random human turned to zombie 
+Human won 
+Cure progress: 4639
+Human won 
+Cure progress: 4639
+Human won 
+Cure progress: 4639
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4639
+Human won 
+Cure progress: 4639
+Human won 
+Cure progress: 4639
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4639
+Human won 
+Cure progress: 4639
+BOMBED 
+Human won 
+Cure progress: 4639
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4639
+Human won 
+Cure progress: 4639
+Human won 
+Cure progress: 4560
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 4560
+Zombie won 
+Cure progress: 4560
+Human won 
+Cure progress: 4560
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4560
+Zombie won 
+Cure progress: 4560
+Human won 
+Cure progress: 4550
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 4550
+Zombie won 
+Cure progress: 4508
+Human won 
+Cure progress: 4508
+One random human turned to zombie 
+Human won 
+Cure progress: 4498
+Zombie won 
+Cure progress: 4498
+Human won 
+Cure progress: 4498
+One random human turned to zombie 
+Human won 
+Cure progress: 4456
+Zombie won in first move 
+Cure progress: 4414
+Zombie won 
+Cure progress: 4414
+One random human turned to zombie 
+Human won 
+Cure progress: 4414
+Zombie won 
+Cure progress: 4414
+Human won 
+Cure progress: 4414
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4414
+Zombie won in first move 
+Cure progress: 4414
+Zombie won 
+Cure progress: 4414
+One random human turned to zombie 
+Human won 
+Cure progress: 4335
+Human won 
+Cure progress: 4335
+Zombie won 
+Cure progress: 4335
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4335
+Human won 
+Cure progress: 4325
+Human won 
+Cure progress: 4325
+One random human turned to zombie 
+Human won 
+Cure progress: 4315
+Human won 
+Cure progress: 4240
+Human won 
+Cure progress: 4240
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4176
+Zombie won 
+Cure progress: 4176
+Human won 
+Cure progress: 4112
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 4112
+Human won 
+Cure progress: 4112
+Zombie won in first move 
+Cure progress: 4112
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4112
+Zombie won in first move 
+Cure progress: 4048
+Human won 
+Cure progress: 4048
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4048
+BOMBED 
+Human won 
+Cure progress: 4038
+Human won 
+Cure progress: 4038
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 3963
+Human won 
+Cure progress: 3963
+Zombie won in first move 
+Cure progress: 3963
+One random human turned to zombie 
+Human won 
+Cure progress: 3963
+Human won 
+Cure progress: 3953
+Human won 
+Cure progress: 3953
+One random human turned to zombie 
+Human won 
+Cure progress: 3953
+Zombie won in first move 
+Cure progress: 3953
+Human won 
+Cure progress: 3953
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3900
+Zombie won 
+Cure progress: 3900
+Zombie won in first move 
+Cure progress: 3900
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3900
+Zombie won in first move 
+Cure progress: 3900
+Zombie won in first move 
+Cure progress: 3858
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3858
+Zombie won 
+Cure progress: 3858
+Zombie won 
+Cure progress: 3858
+One random human turned to zombie 
+Human won 
+Cure progress: 3858
+Human won 
+Cure progress: 3858
+Zombie won 
+Cure progress: 3858
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3858
+BOMBED 
+Human won 
+Cure progress: 3858
+Zombie won 
+Cure progress: 3805
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 3805
+Zombie won in first move 
+Cure progress: 3805
+Human won 
+Cure progress: 3805
+One random human turned to zombie 
+Human won 
+Cure progress: 3805
+Human won 
+Cure progress: 3805
+Zombie won in first move 
+Cure progress: 3726
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3726
+BOMBED 
+Human won 
+Cure progress: 3726
+Zombie won in first move 
+Cure progress: 3726
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3726
+Zombie won 
+Cure progress: 3726
+Human won 
+Cure progress: 3716
+One random human turned to zombie 
+Human won 
+Cure progress: 3716
+Human won 
+Cure progress: 3716
+Human won 
+Cure progress: 3716
+One random human turned to zombie 
+Human won 
+Cure progress: 3641
+Human won 
+Cure progress: 3641
+Zombie won in first move 
+Cure progress: 3641
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 3641
+Human won 
+Cure progress: 3641
+Zombie won in first move 
+Cure progress: 3641
+One random human turned to zombie 
+Human won 
+Cure progress: 3588
+Human won 
+Cure progress: 3588
+Zombie won in first move 
+Cure progress: 3588
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3509
+Human won 
+Cure progress: 3509
+Human won 
+Cure progress: 3509
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 3509
+Zombie won 
+Cure progress: 3509
+Zombie won 
+Cure progress: 3430
+One random human turned to zombie 
+Human won 
+Cure progress: 3430
+Zombie won 
+Cure progress: 3430
+Zombie won 
+Cure progress: 3430
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 3430
+BOMBED 
+Human won 
+Cure progress: 3430
+Human won 
+Cure progress: 3355
+One random human turned to zombie 
+Human won 
+Cure progress: 3291
+Human won 
+Cure progress: 3291
+Human won 
+Cure progress: 3212
+One random human turned to zombie 
+Human won 
+Cure progress: 3202
+Zombie won 
+Cure progress: 3202
+Human won 
+Cure progress: 3202
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3202
+Human won 
+Cure progress: 3127
+Zombie won 
+Cure progress: 3048
+One random human turned to zombie 
+Human won 
+Cure progress: 3048
+Human won 
+Cure progress: 3048
+Human won 
+Cure progress: 2995
+One random human turned to zombie 
+Human won 
+Cure progress: 2995
+Human won 
+Cure progress: 2920
+Human won 
+Cure progress: 2920
+One random human turned to zombie 
+Human won 
+Cure progress: 2841
+Human won 
+Cure progress: 2841
+BOMBED 
+Human won 
+Cure progress: 2841
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 2841
+Zombie won 
+Cure progress: 2841
+Human won 
+Cure progress: 2841
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2841
+Human won 
+Cure progress: 2841
+Zombie won in first move 
+Cure progress: 2841
+One random human turned to zombie 
+Human won 
+Cure progress: 2841
+Zombie won 
+Cure progress: 2762
+Zombie won 
+Cure progress: 2762
+One random human turned to zombie 
+Human won 
+Cure progress: 2762
+Zombie won in first move 
+Cure progress: 2762
+Human won 
+Cure progress: 2762
+One random human turned to zombie 
+Human won 
+Cure progress: 2762
+Zombie won in first move 
+Cure progress: 2762
+Human won 
+Cure progress: 2762
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2762
+Human won 
+Cure progress: 2762
+Zombie won in first move 
+Cure progress: 2762
+One random human turned to zombie 
+Zombie won 
+Cure progress: 2752
+Human won 
+Cure progress: 2699
+Human won 
+Cure progress: 2620
+One random human turned to zombie 
+Human won 
+Cure progress: 2620
+Human won 
+Cure progress: 2620
+Zombie won 
+Cure progress: 2620
+One random human turned to zombie 
+Human won 
+Cure progress: 2545
+Zombie won 
+Cure progress: 2545
+Human won 
+Cure progress: 2545
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2545
+Zombie won 
+Cure progress: 2545
+Zombie won in first move 
+Cure progress: 2545
+One random human turned to zombie 
+Human won 
+Cure progress: 2545
+BOMBED 
+Human won 
+Cure progress: 2545
+Zombie won 
+Cure progress: 2545
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 2535
+Human won 
+Cure progress: 2482
+Human won 
+Cure progress: 2482
+One random human turned to zombie 
+Zombie won 
+Cure progress: 2418
+BOMBED 
+Human won 
+Cure progress: 2418
+Zombie won 
+Cure progress: 2418
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2418
+Zombie won in first move 
+Cure progress: 2418
+Zombie won 
+Cure progress: 2418
+One random human turned to zombie 
+Human won 
+Cure progress: 2418
+Human won 
+Cure progress: 2418
+Human won 
+Cure progress: 2418
+One random human turned to zombie 
+Human won 
+Cure progress: 2418
+Human won 
+Cure progress: 2418
+Human won 
+Cure progress: 2418
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2418
+Human won 
+Cure progress: 2418
+Human won 
+Cure progress: 2418
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2418
+Human won 
+Cure progress: 2365
+Human won 
+Cure progress: 2365
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2365
+Zombie won 
+Cure progress: 2355
+Human won 
+Cure progress: 2355
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2355
+Zombie won in first move 
+Cure progress: 2280
+Human won 
+Cure progress: 2280
+One random human turned to zombie 
+Human won 
+Cure progress: 2280
+Human won 
+Cure progress: 2227
+BOMBED 
+Human won 
+Cure progress: 2227
+One random human turned to zombie 
+Zombie won 
+Cure progress: 2152
+Human won 
+Cure progress: 2152
+Human won 
+Cure progress: 2099
+One random human turned to zombie 
+Human won 
+Cure progress: 2099
+Human won 
+Cure progress: 2099
+Zombie won in first move 
+Cure progress: 2099
+One random human turned to zombie 
+Human won 
+Cure progress: 2046
+Human won 
+Cure progress: 2046
+Human won 
+Cure progress: 2046
+One random human turned to zombie 
+Human won 
+Cure progress: 2046
+Human won 
+Cure progress: 2046
+Human won 
+Cure progress: 2046
+One random human turned to zombie 
+Human won 
+Cure progress: 2046
+Human won 
+Cure progress: 2046
+BOMBED 
+Human won 
+Cure progress: 2046
+One random human turned to zombie 
+Human won 
+Cure progress: 2046
+Zombie won in first move 
+Cure progress: 2046
+Human won 
+Cure progress: 2046
+One random human turned to zombie 
+Human won 
+Cure progress: 2046
+Zombie won in first move 
+Cure progress: 2046
+Human won 
+Cure progress: 1971
+One random human turned to zombie 
+Human won 
+Cure progress: 1971
+Zombie won in first move 
+Cure progress: 1971
+Human won 
+Cure progress: 1918
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 1918
+Zombie won 
+Cure progress: 1918
+BOMBED 
+Human won 
+Cure progress: 1918
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1918
+Human won 
+Cure progress: 1918
+Human won 
+Cure progress: 1918
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 1918
+Zombie won 
+Cure progress: 1865
+Human won 
+Cure progress: 1865
+One random human turned to zombie 
+Human won 
+Cure progress: 1865
+Human won 
+Cure progress: 1865
+Human won 
+Cure progress: 1865
+One random human turned to zombie 
+Human won 
+Cure progress: 1801
+Human won 
+Cure progress: 1801
+Zombie won in first move 
+Cure progress: 1737
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 1737
+Human won 
+Cure progress: 1673
+Zombie won in first move 
+Cure progress: 1620
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1620
+Zombie won in first move 
+Cure progress: 1567
+Zombie won 
+Cure progress: 1567
+One random human turned to zombie 
+Human won 
+Cure progress: 1567
+Zombie won 
+Cure progress: 1567
+Zombie won 
+Cure progress: 1567
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 1567
+BOMBED 
+Human won 
+Cure progress: 1567
+Zombie won 
+Cure progress: 1567
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1567
+Human won 
+Cure progress: 1514
+Human won 
+Cure progress: 1514
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1514
+Zombie won 
+Cure progress: 1514
+Human won 
+Cure progress: 1514
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 1514
+Human won 
+Cure progress: 1514
+Human won 
+Cure progress: 1514
+One random human turned to zombie 
+Human won 
+Cure progress: 1514
+Human won 
+Cure progress: 1514
+Zombie won 
+Cure progress: 1514
+One random human turned to zombie 
+Human won 
+Cure progress: 1461
+Human won 
+Cure progress: 1461
+BOMBED 
+Human won 
+Cure progress: 1461
+One random human turned to zombie 
+Human won 
+Cure progress: 1461
+Human won 
+Cure progress: 1461
+Zombie won 
+Cure progress: 1461
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1461
+Zombie won in first move 
+Cure progress: 1461
+Human won 
+Cure progress: 1461
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1461
+Zombie won 
+Cure progress: 1461
+Human won 
+Cure progress: 1461
+One random human turned to zombie 
+Human won 
+Cure progress: 1461
+Human won 
+Cure progress: 1461
+Zombie won 
+Cure progress: 1397
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 1397
+Zombie won 
+Cure progress: 1397
+Human won 
+Cure progress: 1397
+One random human turned to zombie 
+Human won 
+Cure progress: 1397
+BOMBED 
+Human won 
+Cure progress: 1333
+Zombie won 
+Cure progress: 1333
+One random human turned to zombie 
+Human won 
+Cure progress: 1333
+Human won 
+Cure progress: 1280
+BOMBED 
+Human won 
+Cure progress: 1280
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1280
+Human won 
+Cure progress: 1280
+Human won 
+Cure progress: 1280
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1216
+Zombie won 
+Cure progress: 1216
+Zombie won in first move 
+Cure progress: 1216
+One random human turned to zombie 
+Human won 
+Cure progress: 1216
+Zombie won in first move 
+Cure progress: 1216
+Human won 
+Cure progress: 1216
+One random human turned to zombie 
+Human won 
+Cure progress: 1216
+Human won 
+Cure progress: 1216
+Zombie won in first move 
+Cure progress: 1216
+One random human turned to zombie 
+Human won 
+Cure progress: 1216
+Zombie won in first move 
+Cure progress: 1152
+Human won 
+Cure progress: 1152
+One random human turned to zombie 
+Human won 
+Cure progress: 1152
+Human won 
+Cure progress: 1152
+Human won 
+Cure progress: 1152
+One random human turned to zombie 
+Human won 
+Cure progress: 1152
+Zombie won in first move 
+Cure progress: 1099
+Human won 
+Cure progress: 1099
+One random human turned to zombie 
+Human won 
+Cure progress: 1099
+Human won 
+Cure progress: 1035
+Zombie won 
+Cure progress: 1035
+One random human turned to zombie 
+Human won 
+Cure progress: 1035
+Human won 
+Cure progress: 1035
+Human won 
+Cure progress: 1035
+One random human turned to zombie 
+Human won 
+Cure progress: 982
+Human won 
+Cure progress: 982
+Human won 
+Cure progress: 982
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 982
+Zombie won in first move 
+Cure progress: 982
+Zombie won 
+Cure progress: 982
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 982
+Zombie won in first move 
+Cure progress: 918
+Zombie won 
+Cure progress: 918
+One random human turned to zombie 
+Human won 
+Cure progress: 854
+Zombie won in first move 
+Cure progress: 854
+Human won 
+Cure progress: 854
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 854
+Human won 
+Cure progress: 854
+Human won 
+Cure progress: 854
+One random human turned to zombie 
+Human won 
+Cure progress: 790
+Zombie won in first move 
+Cure progress: 790
+Zombie won 
+Cure progress: 790
+One random human turned to zombie 
+Human won 
+Cure progress: 790
+Human won 
+Cure progress: 790
+Human won 
+Cure progress: 790
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 790
+Zombie won in first move 
+Cure progress: 726
+Zombie won in first move 
+Cure progress: 726
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 726
+Human won 
+Cure progress: 726
+Zombie won in first move 
+Cure progress: 726
+One random human turned to zombie 
+Human won 
+Cure progress: 726
+Zombie won 
+Cure progress: 726
+BOMBED 
+Human won 
+Cure progress: 726
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 726
+BOMBED 
+Human won 
+Cure progress: 726
+BOMBED 
+Human won 
+Cure progress: 726
+One random human turned to zombie 
+Zombie won 
+Cure progress: 726
+Human won 
+Cure progress: 726
+Zombie won 
+Cure progress: 726
+One random human turned to zombie 
+Human won 
+Cure progress: 726
+Zombie won 
+Cure progress: 726
+Human won 
+Cure progress: 726
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 726
+Human won 
+Cure progress: 726
+Human won 
+Cure progress: 726
+One random human turned to zombie 
+Human won 
+Cure progress: 726
+Zombie won 
+Cure progress: 726
+Zombie won 
+Cure progress: 726
+One random human turned to zombie 
+Human won 
+Cure progress: 726
+Human won 
+Cure progress: 662
+Zombie won 
+Cure progress: 662
+One random human turned to zombie 
+Human won 
+Cure progress: 662
+Human won 
+Cure progress: 662
+Zombie won in first move 
+Cure progress: 662
+One random human turned to zombie 
+Human won 
+Cure progress: 662
+BOMBED 
+Human won 
+Cure progress: 662
+Human won 
+Cure progress: 662
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 662
+Zombie won in first move 
+Cure progress: 662
+Human won 
+Cure progress: 662
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 662
+Human won 
+Cure progress: 662
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+BOMBED 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+BOMBED 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+BOMBED 
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+Zombie won in first move 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+Human won 
+Cure progress: 598
+One random human turned to zombie 
+Human won 
+Cure progress: 598
+Zombie won 
+Cure progress: 598
+After 926 days: 
+0 Humans, 464 Zombies. 
+Cure progress was: 598 (0 means ready) 
+------------------------------------------------------------------------------------------------------------ 
+NEW COUNTRY NEW SIMULATION 
+Vectorofhumans: 900  Vectorofzombies: 100
+Scientists: 15  Soldiers: 100  Commons: 785
+Cure progress (0 means ready): 10000
+Human won 
+Cure progress: 10000
+Zombie won 
+Cure progress: 10000
+Human won 
+Cure progress: 10000
+Human won 
+Cure progress: 9918
+Human won 
+Cure progress: 9918
+Human won 
+Cure progress: 9918
+One random human turned to zombie 
+Human won 
+Cure progress: 9918
+BOMBED 
+Human won 
+Cure progress: 9918
+Human won 
+Cure progress: 9918
+Human won 
+Cure progress: 9918
+Zombie won 
+Cure progress: 9918
+Zombie won 
+Cure progress: 9848
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9759
+Zombie won in first move 
+Cure progress: 9759
+Human won 
+Cure progress: 9759
+Human won 
+Cure progress: 9670
+Human won 
+Cure progress: 9670
+Zombie won in first move 
+Cure progress: 9670
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9670
+Human won 
+Cure progress: 9670
+Zombie won 
+Cure progress: 9670
+Zombie won in first move 
+Cure progress: 9588
+BOMBED 
+Human won 
+Cure progress: 9588
+Human won 
+Cure progress: 9569
+One random human turned to zombie 
+Human won 
+Cure progress: 9569
+BOMBED 
+Human won 
+Cure progress: 9569
+Zombie won 
+Cure progress: 9533
+Human won 
+Cure progress: 9533
+Human won 
+Cure progress: 9533
+Zombie won 
+Cure progress: 9533
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9533
+Human won 
+Cure progress: 9509
+BOMBED 
+Human won 
+Cure progress: 9436
+Zombie won in first move 
+Cure progress: 9436
+Human won 
+Cure progress: 9436
+Zombie won 
+Cure progress: 9436
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9436
+Zombie won in first move 
+Cure progress: 9436
+Zombie won in first move 
+Cure progress: 9436
+Zombie won in first move 
+Cure progress: 9436
+Human won 
+Cure progress: 9436
+Zombie won in first move 
+Cure progress: 9436
+One random human turned to zombie 
+Human won 
+Cure progress: 9436
+BOMBED 
+Human won 
+Cure progress: 9436
+Human won 
+Cure progress: 9436
+Human won 
+Cure progress: 9436
+Human won 
+Cure progress: 9436
+BOMBED 
+Human won 
+Cure progress: 9436
+One random human turned to zombie 
+Human won 
+Cure progress: 9436
+Human won 
+Cure progress: 9436
+BOMBED 
+Human won 
+Cure progress: 9436
+Human won 
+Cure progress: 9436
+Human won 
+Cure progress: 9344
+Zombie won in first move 
+Cure progress: 9262
+One random human turned to zombie 
+Human won 
+Cure progress: 9177
+BOMBED 
+Human won 
+Cure progress: 9177
+Zombie won in first move 
+Cure progress: 9177
+Human won 
+Cure progress: 9177
+Human won 
+Cure progress: 9177
+Human won 
+Cure progress: 9177
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9092
+Human won 
+Cure progress: 9092
+Zombie won 
+Cure progress: 9092
+Human won 
+Cure progress: 9092
+Human won 
+Cure progress: 9092
+BOMBED 
+Human won 
+Cure progress: 9092
+One random human turned to zombie 
+Human won 
+Cure progress: 9092
+Zombie won in first move 
+Cure progress: 9092
+Human won 
+Cure progress: 9092
+Human won 
+Cure progress: 9092
+Zombie won 
+Cure progress: 9012
+Zombie won in first move 
+Cure progress: 9012
+One random human turned to zombie 
+Human won 
+Cure progress: 9012
+Human won 
+Cure progress: 9012
+Human won 
+Cure progress: 9012
+Human won 
+Cure progress: 9012
+Zombie won in first move 
+Cure progress: 9012
+Zombie won in first move 
+Cure progress: 9012
+One random human turned to zombie 
+Human won 
+Cure progress: 9012
+Human won 
+Cure progress: 9012
+Zombie won 
+Cure progress: 9012
+Human won 
+Cure progress: 8968
+Human won 
+Cure progress: 8968
+Human won 
+Cure progress: 8968
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8968
+Zombie won 
+Cure progress: 8968
+Human won 
+Cure progress: 8968
+Zombie won 
+Cure progress: 8968
+Human won 
+Cure progress: 8968
+Zombie won in first move 
+Cure progress: 8968
+One random human turned to zombie 
+Human won 
+Cure progress: 8968
+Zombie won in first move 
+Cure progress: 8968
+Zombie won in first move 
+Cure progress: 8924
+Human won 
+Cure progress: 8924
+Human won 
+Cure progress: 8924
+Zombie won in first move 
+Cure progress: 8924
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8924
+BOMBED 
+Human won 
+Cure progress: 8835
+Human won 
+Cure progress: 8835
+Zombie won 
+Cure progress: 8835
+Human won 
+Cure progress: 8835
+BOMBED 
+Human won 
+Cure progress: 8835
+One random human turned to zombie 
+Human won 
+Cure progress: 8835
+Human won 
+Cure progress: 8835
+BOMBED 
+Human won 
+Cure progress: 8755
+Human won 
+Cure progress: 8675
+Human won 
+Cure progress: 8675
+Human won 
+Cure progress: 8675
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8675
+Zombie won 
+Cure progress: 8639
+Zombie won 
+Cure progress: 8639
+BOMBED 
+Human won 
+Cure progress: 8639
+Human won 
+Cure progress: 8639
+Human won 
+Cure progress: 8639
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8639
+Human won 
+Cure progress: 8639
+BOMBED 
+Human won 
+Cure progress: 8639
+Human won 
+Cure progress: 8639
+Zombie won in first move 
+Cure progress: 8622
+Human won 
+Cure progress: 8622
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 8622
+Zombie won 
+Cure progress: 8622
+Human won 
+Cure progress: 8622
+Human won 
+Cure progress: 8552
+BOMBED 
+Human won 
+Cure progress: 8552
+Human won 
+Cure progress: 8482
+One random human turned to zombie 
+Human won 
+Cure progress: 8482
+Human won 
+Cure progress: 8482
+BOMBED 
+Human won 
+Cure progress: 8482
+Human won 
+Cure progress: 8482
+Zombie won 
+Cure progress: 8482
+Zombie won in first move 
+Cure progress: 8482
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8482
+Zombie won in first move 
+Cure progress: 8482
+Human won 
+Cure progress: 8482
+Zombie won in first move 
+Cure progress: 8482
+Zombie won in first move 
+Cure progress: 8482
+Human won 
+Cure progress: 8482
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8402
+Zombie won 
+Cure progress: 8402
+Human won 
+Cure progress: 8402
+Zombie won in first move 
+Cure progress: 8402
+Zombie won in first move 
+Cure progress: 8402
+Human won 
+Cure progress: 8402
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8402
+Human won 
+Cure progress: 8402
+Zombie won 
+Cure progress: 8402
+Zombie won in first move 
+Cure progress: 8358
+Human won 
+Cure progress: 8276
+Human won 
+Cure progress: 8276
+One random human turned to zombie 
+Human won 
+Cure progress: 8276
+Zombie won 
+Cure progress: 8276
+Zombie won 
+Cure progress: 8276
+Human won 
+Cure progress: 8203
+BOMBED 
+Human won 
+Cure progress: 8203
+Human won 
+Cure progress: 8130
+One random human turned to zombie 
+Human won 
+Cure progress: 8130
+Human won 
+Cure progress: 8130
+Human won 
+Cure progress: 8130
+Human won 
+Cure progress: 8130
+Zombie won in first move 
+Cure progress: 8130
+Human won 
+Cure progress: 8038
+One random human turned to zombie 
+Human won 
+Cure progress: 8038
+Zombie won 
+Cure progress: 7958
+Zombie won in first move 
+Cure progress: 7958
+Zombie won 
+Cure progress: 7958
+Human won 
+Cure progress: 7958
+Human won 
+Cure progress: 7958
+One random human turned to zombie 
+Human won 
+Cure progress: 7958
+Zombie won 
+Cure progress: 7866
+Zombie won in first move 
+Cure progress: 7866
+Human won 
+Cure progress: 7866
+Human won 
+Cure progress: 7866
+Zombie won 
+Cure progress: 7796
+One random human turned to zombie 
+Human won 
+Cure progress: 7796
+BOMBED 
+Human won 
+Cure progress: 7796
+Human won 
+Cure progress: 7796
+Zombie won 
+Cure progress: 7796
+Human won 
+Cure progress: 7796
+Human won 
+Cure progress: 7752
+One random human turned to zombie 
+Human won 
+Cure progress: 7752
+Human won 
+Cure progress: 7733
+Human won 
+Cure progress: 7733
+Human won 
+Cure progress: 7733
+Zombie won in first move 
+Cure progress: 7733
+Zombie won in first move 
+Cure progress: 7733
+One random human turned to zombie 
+Human won 
+Cure progress: 7644
+Human won 
+Cure progress: 7644
+Human won 
+Cure progress: 7644
+Zombie won 
+Cure progress: 7644
+Zombie won 
+Cure progress: 7644
+Zombie won 
+Cure progress: 7644
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7644
+Zombie won 
+Cure progress: 7644
+Human won 
+Cure progress: 7644
+Human won 
+Cure progress: 7644
+Zombie won 
+Cure progress: 7644
+Human won 
+Cure progress: 7644
+One random human turned to zombie 
+Human won 
+Cure progress: 7644
+Human won 
+Cure progress: 7559
+Human won 
+Cure progress: 7559
+Zombie won 
+Cure progress: 7559
+Zombie won in first move 
+Cure progress: 7559
+Zombie won in first move 
+Cure progress: 7559
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 7559
+Human won 
+Cure progress: 7477
+Zombie won 
+Cure progress: 7397
+Human won 
+Cure progress: 7397
+Zombie won 
+Cure progress: 7397
+Human won 
+Cure progress: 7397
+One random human turned to zombie 
+Human won 
+Cure progress: 7397
+Zombie won in first move 
+Cure progress: 7397
+Zombie won in first move 
+Cure progress: 7397
+Human won 
+Cure progress: 7397
+Human won 
+Cure progress: 7397
+Human won 
+Cure progress: 7397
+One random human turned to zombie 
+Human won 
+Cure progress: 7397
+Human won 
+Cure progress: 7380
+Zombie won 
+Cure progress: 7380
+Zombie won in first move 
+Cure progress: 7380
+Human won 
+Cure progress: 7380
+Zombie won in first move 
+Cure progress: 7380
+One random human turned to zombie 
+Human won 
+Cure progress: 7380
+Human won 
+Cure progress: 7380
+Zombie won 
+Cure progress: 7380
+Zombie won 
+Cure progress: 7380
+Human won 
+Cure progress: 7380
+Zombie won in first move 
+Cure progress: 7380
+One random human turned to zombie 
+Human won 
+Cure progress: 7380
+Human won 
+Cure progress: 7380
+Human won 
+Cure progress: 7380
+Human won 
+Cure progress: 7344
+Zombie won in first move 
+Cure progress: 7252
+Zombie won in first move 
+Cure progress: 7252
+One random human turned to zombie 
+Human won 
+Cure progress: 7252
+Human won 
+Cure progress: 7252
+Human won 
+Cure progress: 7252
+Zombie won 
+Cure progress: 7252
+Zombie won in first move 
+Cure progress: 7252
+Human won 
+Cure progress: 7252
+One random human turned to zombie 
+Human won 
+Cure progress: 7252
+Human won 
+Cure progress: 7252
+Zombie won 
+Cure progress: 7252
+Human won 
+Cure progress: 7167
+Human won 
+Cure progress: 7167
+Zombie won 
+Cure progress: 7167
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7167
+Zombie won in first move 
+Cure progress: 7167
+Human won 
+Cure progress: 7094
+Human won 
+Cure progress: 7094
+Human won 
+Cure progress: 7094
+Human won 
+Cure progress: 7094
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7094
+Human won 
+Cure progress: 7094
+Human won 
+Cure progress: 7094
+Human won 
+Cure progress: 7094
+BOMBED 
+Human won 
+Cure progress: 7094
+Zombie won 
+Cure progress: 7094
+One random human turned to zombie 
+Human won 
+Cure progress: 7094
+Zombie won 
+Cure progress: 7012
+Human won 
+Cure progress: 6995
+Zombie won in first move 
+Cure progress: 6995
+Zombie won in first move 
+Cure progress: 6995
+Human won 
+Cure progress: 6995
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6910
+Zombie won 
+Cure progress: 6910
+Human won 
+Cure progress: 6910
+Human won 
+Cure progress: 6910
+Zombie won in first move 
+Cure progress: 6910
+Human won 
+Cure progress: 6910
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6910
+BOMBED 
+Human won 
+Cure progress: 6910
+Zombie won 
+Cure progress: 6840
+Zombie won 
+Cure progress: 6840
+Human won 
+Cure progress: 6840
+Human won 
+Cure progress: 6840
+One random human turned to zombie 
+Human won 
+Cure progress: 6840
+Human won 
+Cure progress: 6840
+Zombie won 
+Cure progress: 6840
+Human won 
+Cure progress: 6840
+Zombie won 
+Cure progress: 6840
+Zombie won in first move 
+Cure progress: 6840
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6840
+Human won 
+Cure progress: 6840
+Zombie won 
+Cure progress: 6840
+Human won 
+Cure progress: 6840
+Human won 
+Cure progress: 6840
+Zombie won 
+Cure progress: 6840
+One random human turned to zombie 
+Human won 
+Cure progress: 6840
+Zombie won in first move 
+Cure progress: 6840
+Human won 
+Cure progress: 6840
+Zombie won 
+Cure progress: 6840
+Zombie won in first move 
+Cure progress: 6758
+Zombie won in first move 
+Cure progress: 6719
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6719
+Human won 
+Cure progress: 6719
+Human won 
+Cure progress: 6719
+Human won 
+Cure progress: 6719
+Zombie won in first move 
+Cure progress: 6719
+Zombie won in first move 
+Cure progress: 6719
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6719
+Human won 
+Cure progress: 6719
+Human won 
+Cure progress: 6646
+Human won 
+Cure progress: 6646
+Zombie won 
+Cure progress: 6646
+Human won 
+Cure progress: 6646
+One random human turned to zombie 
+Human won 
+Cure progress: 6646
+Human won 
+Cure progress: 6646
+Zombie won in first move 
+Cure progress: 6646
+Zombie won 
+Cure progress: 6646
+Zombie won in first move 
+Cure progress: 6610
+Zombie won in first move 
+Cure progress: 6610
+One random human turned to zombie 
+Human won 
+Cure progress: 6610
+Human won 
+Cure progress: 6610
+Zombie won 
+Cure progress: 6610
+Zombie won in first move 
+Cure progress: 6610
+Zombie won in first move 
+Cure progress: 6525
+Zombie won 
+Cure progress: 6525
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 6525
+Human won 
+Cure progress: 6525
+Zombie won in first move 
+Cure progress: 6501
+Zombie won 
+Cure progress: 6501
+Human won 
+Cure progress: 6484
+Human won 
+Cure progress: 6484
+One random human turned to zombie 
+Human won 
+Cure progress: 6484
+Human won 
+Cure progress: 6484
+Zombie won 
+Cure progress: 6484
+Zombie won in first move 
+Cure progress: 6484
+Human won 
+Cure progress: 6484
+Human won 
+Cure progress: 6484
+One random human turned to zombie 
+Human won 
+Cure progress: 6484
+Zombie won in first move 
+Cure progress: 6484
+Human won 
+Cure progress: 6460
+Human won 
+Cure progress: 6380
+Human won 
+Cure progress: 6380
+Zombie won 
+Cure progress: 6380
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6380
+Zombie won 
+Cure progress: 6295
+Human won 
+Cure progress: 6295
+Zombie won in first move 
+Cure progress: 6203
+Zombie won in first move 
+Cure progress: 6203
+Human won 
+Cure progress: 6203
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6203
+Zombie won 
+Cure progress: 6203
+Human won 
+Cure progress: 6203
+Human won 
+Cure progress: 6203
+Human won 
+Cure progress: 6203
+Zombie won 
+Cure progress: 6203
+One random human turned to zombie 
+Human won 
+Cure progress: 6203
+Human won 
+Cure progress: 6121
+Human won 
+Cure progress: 6041
+Human won 
+Cure progress: 6041
+Human won 
+Cure progress: 6041
+Human won 
+Cure progress: 6041
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6041
+Zombie won 
+Cure progress: 6041
+Zombie won 
+Cure progress: 6024
+Human won 
+Cure progress: 6024
+Human won 
+Cure progress: 5935
+Zombie won 
+Cure progress: 5935
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5935
+Zombie won in first move 
+Cure progress: 5896
+Human won 
+Cure progress: 5896
+Human won 
+Cure progress: 5896
+Human won 
+Cure progress: 5872
+Human won 
+Cure progress: 5872
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 5872
+Zombie won 
+Cure progress: 5872
+Zombie won 
+Cure progress: 5872
+Human won 
+Cure progress: 5872
+Human won 
+Cure progress: 5872
+Zombie won in first move 
+Cure progress: 5872
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5872
+Zombie won 
+Cure progress: 5872
+BOMBED 
+Human won 
+Cure progress: 5833
+Zombie won 
+Cure progress: 5833
+Zombie won in first move 
+Cure progress: 5833
+Human won 
+Cure progress: 5833
+One random human turned to zombie 
+Human won 
+Cure progress: 5833
+Human won 
+Cure progress: 5833
+Human won 
+Cure progress: 5833
+Human won 
+Cure progress: 5833
+Human won 
+Cure progress: 5833
+Zombie won in first move 
+Cure progress: 5833
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5797
+Human won 
+Cure progress: 5797
+Human won 
+Cure progress: 5797
+Human won 
+Cure progress: 5797
+Zombie won 
+Cure progress: 5797
+Zombie won 
+Cure progress: 5797
+One random human turned to zombie 
+Human won 
+Cure progress: 5797
+Human won 
+Cure progress: 5717
+Zombie won in first move 
+Cure progress: 5717
+Zombie won in first move 
+Cure progress: 5717
+Human won 
+Cure progress: 5717
+Zombie won 
+Cure progress: 5717
+One random human turned to zombie 
+Human won 
+Cure progress: 5717
+Human won 
+Cure progress: 5693
+Zombie won 
+Cure progress: 5693
+Zombie won in first move 
+Cure progress: 5693
+Zombie won 
+Cure progress: 5693
+Human won 
+Cure progress: 5693
+One random human turned to zombie 
+Human won 
+Cure progress: 5693
+Zombie won 
+Cure progress: 5608
+Human won 
+Cure progress: 5608
+Human won 
+Cure progress: 5569
+Zombie won 
+Cure progress: 5569
+Zombie won 
+Cure progress: 5525
+One random human turned to zombie 
+Human won 
+Cure progress: 5525
+Zombie won in first move 
+Cure progress: 5440
+Human won 
+Cure progress: 5440
+Zombie won in first move 
+Cure progress: 5440
+Zombie won in first move 
+Cure progress: 5440
+Zombie won in first move 
+Cure progress: 5440
+One random human turned to zombie 
+Human won 
+Cure progress: 5370
+Human won 
+Cure progress: 5370
+Human won 
+Cure progress: 5370
+Human won 
+Cure progress: 5370
+BOMBED 
+Human won 
+Cure progress: 5326
+BOMBED 
+Human won 
+Cure progress: 5326
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5326
+Zombie won in first move 
+Cure progress: 5234
+Zombie won 
+Cure progress: 5234
+Human won 
+Cure progress: 5234
+Human won 
+Cure progress: 5234
+Human won 
+Cure progress: 5234
+One random human turned to zombie 
+Human won 
+Cure progress: 5234
+Human won 
+Cure progress: 5234
+Human won 
+Cure progress: 5234
+Zombie won in first move 
+Cure progress: 5234
+Zombie won 
+Cure progress: 5234
+Human won 
+Cure progress: 5149
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 5149
+Human won 
+Cure progress: 5149
+Human won 
+Cure progress: 5149
+Zombie won 
+Cure progress: 5149
+Zombie won in first move 
+Cure progress: 5149
+Zombie won in first move 
+Cure progress: 5149
+One random human turned to zombie 
+Human won 
+Cure progress: 5113
+Human won 
+Cure progress: 5040
+Zombie won 
+Cure progress: 5040
+Human won 
+Cure progress: 4996
+Human won 
+Cure progress: 4907
+Zombie won 
+Cure progress: 4907
+One random human turned to zombie 
+Human won 
+Cure progress: 4907
+Human won 
+Cure progress: 4907
+Human won 
+Cure progress: 4837
+Human won 
+Cure progress: 4837
+Zombie won in first move 
+Cure progress: 4752
+Zombie won 
+Cure progress: 4752
+One random human turned to zombie 
+Human won 
+Cure progress: 4752
+Zombie won in first move 
+Cure progress: 4679
+Human won 
+Cure progress: 4679
+Human won 
+Cure progress: 4679
+Zombie won 
+Cure progress: 4679
+Human won 
+Cure progress: 4679
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4679
+Zombie won in first move 
+Cure progress: 4655
+Zombie won 
+Cure progress: 4655
+Zombie won 
+Cure progress: 4655
+Human won 
+Cure progress: 4655
+Human won 
+Cure progress: 4655
+One random human turned to zombie 
+Human won 
+Cure progress: 4563
+Zombie won 
+Cure progress: 4539
+Zombie won in first move 
+Cure progress: 4539
+Zombie won in first move 
+Cure progress: 4539
+Human won 
+Cure progress: 4539
+Zombie won 
+Cure progress: 4539
+One random human turned to zombie 
+Human won 
+Cure progress: 4539
+Human won 
+Cure progress: 4539
+Human won 
+Cure progress: 4539
+Zombie won in first move 
+Cure progress: 4539
+Human won 
+Cure progress: 4539
+Zombie won in first move 
+Cure progress: 4539
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4539
+Human won 
+Cure progress: 4539
+Zombie won 
+Cure progress: 4539
+Human won 
+Cure progress: 4495
+Human won 
+Cure progress: 4495
+Human won 
+Cure progress: 4495
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4415
+Human won 
+Cure progress: 4415
+Zombie won 
+Cure progress: 4342
+Zombie won in first move 
+Cure progress: 4342
+Human won 
+Cure progress: 4342
+Human won 
+Cure progress: 4342
+One random human turned to zombie 
+Human won 
+Cure progress: 4342
+Human won 
+Cure progress: 4342
+Human won 
+Cure progress: 4342
+Human won 
+Cure progress: 4342
+Zombie won in first move 
+Cure progress: 4342
+Human won 
+Cure progress: 4342
+One random human turned to zombie 
+Human won 
+Cure progress: 4257
+Human won 
+Cure progress: 4257
+Zombie won 
+Cure progress: 4257
+Zombie won 
+Cure progress: 4177
+Human won 
+Cure progress: 4177
+Human won 
+Cure progress: 4104
+One random human turned to zombie 
+Human won 
+Cure progress: 4104
+Zombie won in first move 
+Cure progress: 4015
+Human won 
+Cure progress: 4015
+Human won 
+Cure progress: 4015
+Human won 
+Cure progress: 4015
+Zombie won 
+Cure progress: 4015
+One random human turned to zombie 
+Human won 
+Cure progress: 4015
+Zombie won 
+Cure progress: 4015
+Zombie won 
+Cure progress: 4015
+Zombie won 
+Cure progress: 3971
+Zombie won 
+Cure progress: 3971
+Human won 
+Cure progress: 3971
+One random human turned to zombie 
+Human won 
+Cure progress: 3971
+Zombie won 
+Cure progress: 3971
+BOMBED 
+Human won 
+Cure progress: 3971
+Human won 
+Cure progress: 3889
+Zombie won 
+Cure progress: 3819
+Human won 
+Cure progress: 3746
+One random human turned to zombie 
+Human won 
+Cure progress: 3746
+Zombie won 
+Cure progress: 3746
+Zombie won in first move 
+Cure progress: 3746
+Human won 
+Cure progress: 3746
+Human won 
+Cure progress: 3664
+Zombie won 
+Cure progress: 3664
+One random human turned to zombie 
+Human won 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+One random human turned to zombie 
+Human won 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+Zombie won in first move 
+Cure progress: 3664
+Zombie won in first move 
+Cure progress: 3664
+Zombie won 
+Cure progress: 3664
+Zombie won 
+Cure progress: 3664
+One random human turned to zombie 
+Human won 
+Cure progress: 3664
+Zombie won 
+Cure progress: 3664
+Zombie won in first move 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+Zombie won 
+Cure progress: 3664
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3664
+Zombie won in first move 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+Zombie won 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+Human won 
+Cure progress: 3664
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3572
+Human won 
+Cure progress: 3572
+Human won 
+Cure progress: 3572
+Human won 
+Cure progress: 3572
+Human won 
+Cure progress: 3572
+Zombie won in first move 
+Cure progress: 3572
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3572
+Zombie won 
+Cure progress: 3572
+Human won 
+Cure progress: 3533
+BOMBED 
+Human won 
+Cure progress: 3533
+Zombie won 
+Cure progress: 3533
+Human won 
+Cure progress: 3451
+One random human turned to zombie 
+Human won 
+Cure progress: 3451
+Zombie won 
+Cure progress: 3451
+Zombie won in first move 
+Cure progress: 3381
+Zombie won 
+Cure progress: 3381
+Human won 
+Cure progress: 3381
+Human won 
+Cure progress: 3296
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3296
+Human won 
+Cure progress: 3296
+Zombie won 
+Cure progress: 3296
+Human won 
+Cure progress: 3296
+Human won 
+Cure progress: 3296
+Human won 
+Cure progress: 3296
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 3296
+Human won 
+Cure progress: 3296
+Human won 
+Cure progress: 3272
+Zombie won in first move 
+Cure progress: 3272
+Human won 
+Cure progress: 3190
+Human won 
+Cure progress: 3190
+One random human turned to zombie 
+Human won 
+Cure progress: 3190
+Zombie won in first move 
+Cure progress: 3190
+Human won 
+Cure progress: 3151
+Human won 
+Cure progress: 3151
+Zombie won 
+Cure progress: 3151
+Zombie won in first move 
+Cure progress: 3069
+One random human turned to zombie 
+Zombie won 
+Cure progress: 3069
+Human won 
+Cure progress: 3069
+Human won 
+Cure progress: 3045
+Human won 
+Cure progress: 3045
+Zombie won in first move 
+Cure progress: 3045
+Human won 
+Cure progress: 3021
+One random human turned to zombie 
+Human won 
+Cure progress: 3021
+Human won 
+Cure progress: 2939
+Human won 
+Cure progress: 2939
+Zombie won 
+Cure progress: 2939
+Zombie won in first move 
+Cure progress: 2939
+Zombie won in first move 
+Cure progress: 2866
+One random human turned to zombie 
+Zombie won 
+Cure progress: 2866
+Human won 
+Cure progress: 2793
+Zombie won 
+Cure progress: 2708
+Zombie won in first move 
+Cure progress: 2638
+Human won 
+Cure progress: 2638
+Zombie won in first move 
+Cure progress: 2602
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2602
+Zombie won in first move 
+Cure progress: 2563
+Zombie won 
+Cure progress: 2563
+Human won 
+Cure progress: 2563
+Human won 
+Cure progress: 2481
+BOMBED 
+Human won 
+Cure progress: 2481
+One random human turned to zombie 
+Human won 
+Cure progress: 2481
+Human won 
+Cure progress: 2481
+Zombie won 
+Cure progress: 2481
+Zombie won in first move 
+Cure progress: 2396
+Human won 
+Cure progress: 2396
+Zombie won in first move 
+Cure progress: 2396
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2396
+Zombie won 
+Cure progress: 2396
+Human won 
+Cure progress: 2396
+Human won 
+Cure progress: 2323
+Human won 
+Cure progress: 2323
+Human won 
+Cure progress: 2250
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 2250
+Human won 
+Cure progress: 2250
+Zombie won in first move 
+Cure progress: 2168
+Human won 
+Cure progress: 2168
+Human won 
+Cure progress: 2168
+Human won 
+Cure progress: 2168
+One random human turned to zombie 
+Zombie won 
+Cure progress: 2168
+Human won 
+Cure progress: 2086
+Human won 
+Cure progress: 2086
+Human won 
+Cure progress: 2086
+Zombie won 
+Cure progress: 2086
+Zombie won in first move 
+Cure progress: 2016
+One random human turned to zombie 
+Human won 
+Cure progress: 1980
+Human won 
+Cure progress: 1944
+Zombie won 
+Cure progress: 1944
+Human won 
+Cure progress: 1944
+Human won 
+Cure progress: 1944
+Human won 
+Cure progress: 1905
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1905
+Human won 
+Cure progress: 1905
+Zombie won in first move 
+Cure progress: 1820
+Zombie won 
+Cure progress: 1820
+Zombie won 
+Cure progress: 1784
+Human won 
+Cure progress: 1760
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1760
+Human won 
+Cure progress: 1760
+Zombie won in first move 
+Cure progress: 1760
+Zombie won in first move 
+Cure progress: 1690
+Zombie won 
+Cure progress: 1690
+Human won 
+Cure progress: 1666
+One random human turned to zombie 
+Human won 
+Cure progress: 1666
+Human won 
+Cure progress: 1666
+Human won 
+Cure progress: 1666
+Human won 
+Cure progress: 1642
+Zombie won 
+Cure progress: 1642
+Zombie won in first move 
+Cure progress: 1606
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1606
+Human won 
+Cure progress: 1606
+Human won 
+Cure progress: 1606
+Zombie won 
+Cure progress: 1606
+Human won 
+Cure progress: 1606
+Human won 
+Cure progress: 1606
+One random human turned to zombie 
+Human won 
+Cure progress: 1606
+Human won 
+Cure progress: 1521
+Human won 
+Cure progress: 1521
+Zombie won 
+Cure progress: 1521
+Zombie won 
+Cure progress: 1521
+Zombie won 
+Cure progress: 1521
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 1521
+Zombie won in first move 
+Cure progress: 1521
+Zombie won in first move 
+Cure progress: 1521
+Human won 
+Cure progress: 1485
+Zombie won 
+Cure progress: 1403
+Human won 
+Cure progress: 1367
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1367
+Human won 
+Cure progress: 1367
+Human won 
+Cure progress: 1367
+Zombie won in first move 
+Cure progress: 1367
+Human won 
+Cure progress: 1367
+Human won 
+Cure progress: 1367
+One random human turned to zombie 
+Human won 
+Cure progress: 1282
+Zombie won in first move 
+Cure progress: 1282
+Human won 
+Cure progress: 1282
+Human won 
+Cure progress: 1282
+Human won 
+Cure progress: 1258
+Human won 
+Cure progress: 1258
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 1258
+Zombie won in first move 
+Cure progress: 1258
+Human won 
+Cure progress: 1219
+Human won 
+Cure progress: 1219
+Human won 
+Cure progress: 1146
+Human won 
+Cure progress: 1110
+One random human turned to zombie 
+Zombie won 
+Cure progress: 1037
+Zombie won 
+Cure progress: 1037
+Zombie won in first move 
+Cure progress: 1037
+Zombie won in first move 
+Cure progress: 952
+Human won 
+Cure progress: 952
+Zombie won in first move 
+Cure progress: 952
+One random human turned to zombie 
+Human won 
+Cure progress: 952
+Human won 
+Cure progress: 952
+Zombie won 
+Cure progress: 952
+Human won 
+Cure progress: 952
+Human won 
+Cure progress: 916
+Human won 
+Cure progress: 916
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 916
+Human won 
+Cure progress: 843
+Human won 
+Cure progress: 758
+Human won 
+Cure progress: 734
+Human won 
+Cure progress: 734
+Zombie won in first move 
+Cure progress: 661
+One random human turned to zombie 
+Human won 
+Cure progress: 661
+Human won 
+Cure progress: 661
+Human won 
+Cure progress: 661
+Human won 
+Cure progress: 661
+Zombie won in first move 
+Cure progress: 661
+Human won 
+Cure progress: 661
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 622
+Zombie won in first move 
+Cure progress: 537
+Human won 
+Cure progress: 452
+Human won 
+Cure progress: 428
+Zombie won 
+Cure progress: 428
+Zombie won 
+Cure progress: 389
+One random human turned to zombie 
+Zombie won 
+Cure progress: 389
+Zombie won 
+Cure progress: 389
+Human won 
+Cure progress: 389
+Human won 
+Cure progress: 389
+Human won 
+Cure progress: 389
+Human won 
+Cure progress: 365
+One random human turned to zombie 
+Human won 
+Cure progress: 365
+Human won 
+Cure progress: 295
+Human won 
+Cure progress: 210
+Zombie won in first move 
+Cure progress: 210
+Zombie won in first move 
+Cure progress: 210
+Human won 
+Cure progress: 210
+One random human turned to zombie 
+Zombie won 
+Cure progress: 210
+Zombie won 
+Cure progress: 210
+Human won 
+Cure progress: 210
+Zombie won 
+Cure progress: 210
+Zombie won 
+Cure progress: 140
+Zombie won 
+Cure progress: 67
+One random human turned to zombie 
+Human won 
+Cure progress: 67
+Human won 
+Cure progress: 28
+Human won 
+Cure progress: 28
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+9 Zombies cured 
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+8 Zombies cured 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+7 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+5 Zombies cured 
+Zombie won 
+Cure progress: 0
+BOMBED 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+7 Zombies cured 
+Zombie won 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+5 Zombies cured 
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+6 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+6 Zombies cured 
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+8 Zombies cured 
+Human won 
+Cure progress: 0
+5 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+8 Zombies cured 
+Human won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+8 Zombies cured 
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+7 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+BOMBED 
+Human won 
+Cure progress: 0
+8 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won 
+Cure progress: 0
+6 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+7 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+8 Zombies cured 
+BOMBED 
+Human won 
+Cure progress: 0
+7 Zombies cured 
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+9 Zombies cured 
+Zombie won 
+Cure progress: 0
+7 Zombies cured 
+Human won 
+Cure progress: 0
+5 Zombies cured 
+Zombie won 
+Cure progress: 0
+8 Zombies cured 
+Zombie won 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won 
+Cure progress: 0
+7 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+6 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+9 Zombies cured 
+One random human turned to zombie 
+Human won 
+Cure progress: 0
+5 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+Human won 
+Cure progress: 0
+9 Zombies cured 
+Human won 
+Cure progress: 0
+7 Zombies cured 
+Zombie won in first move 
+Cure progress: 0
+7 Zombies cured 
+BOMBED 
+Human won 
+Cure progress: 0
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+5 Zombies cured 
+Human won 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+9 Zombies cured 
+One random human turned to zombie 
+Zombie won 
+Cure progress: 0
+Human won 
+Cure progress: 0
+Zombie won in first move 
+Cure progress: 0
+Zombie won 
+Cure progress: 0
+7 Zombies cured 
+Human won 
+Cure progress: 0
+8 Zombies cured 
+After 809 days: 
+531 Humans, 0 Zombies. 
+Cure progress was: 0 (0 means ready) 
+------------------------------------------------------------------------------------------------------------ 
+NEW COUNTRY NEW SIMULATION 
+Vectorofhumans: 900  Vectorofzombies: 100
+Scientists: 15  Soldiers: 100  Commons: 785
+Cure progress (0 means ready): 10000
+Zombie won in first move 
+Cure progress: 9996
+Zombie won in first move 
+Cure progress: 9996
+One random human turned to zombie 
+Human won 
+Cure progress: 9996
+Human won 
+Cure progress: 9996
+One random human turned to zombie 
+Human won 
+Cure progress: 9996
+Human won 
+Cure progress: 9996
+One random human turned to zombie 
+Human won 
+Cure progress: 9996
+Human won 
+Cure progress: 9996
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9996
+Zombie won in first move 
+Cure progress: 9996
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9996
+Zombie won in first move 
+Cure progress: 9996
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9996
+Zombie won in first move 
+Cure progress: 9996
+One random human turned to zombie 
+Human won 
+Cure progress: 9996
+Zombie won in first move 
+Cure progress: 9996
+One random human turned to zombie 
+Human won 
+Cure progress: 9996
+Zombie won 
+Cure progress: 9996
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 9996
+BOMBED 
+Human won 
+Cure progress: 9996
+One random human turned to zombie 
+Human won 
+Cure progress: 9996
+Human won 
+Cure progress: 9996
+One random human turned to zombie 
+Human won 
+Cure progress: 9996
+BOMBED 
+Human won 
+Cure progress: 9961
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9961
+Zombie won in first move 
+Cure progress: 9961
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 9961
+Human won 
+Cure progress: 9961
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9929
+Zombie won in first move 
+Cure progress: 9929
+One random human turned to zombie 
+Human won 
+Cure progress: 9839
+Zombie won 
+Cure progress: 9768
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9768
+Zombie won in first move 
+Cure progress: 9768
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9697
+Human won 
+Cure progress: 9697
+One random human turned to zombie 
+Human won 
+Cure progress: 9697
+Human won 
+Cure progress: 9697
+One random human turned to zombie 
+Human won 
+Cure progress: 9697
+Zombie won in first move 
+Cure progress: 9697
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9697
+Human won 
+Cure progress: 9602
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9602
+Zombie won in first move 
+Cure progress: 9602
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9602
+Zombie won in first move 
+Cure progress: 9602
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9602
+Zombie won in first move 
+Cure progress: 9602
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9602
+Zombie won 
+Cure progress: 9602
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9602
+Zombie won in first move 
+Cure progress: 9512
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9512
+BOMBED 
+Human won 
+Cure progress: 9512
+One random human turned to zombie 
+Human won 
+Cure progress: 9512
+Human won 
+Cure progress: 9512
+One random human turned to zombie 
+Human won 
+Cure progress: 9512
+Zombie won 
+Cure progress: 9512
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9417
+Zombie won 
+Cure progress: 9417
+One random human turned to zombie 
+Human won 
+Cure progress: 9417
+Human won 
+Cure progress: 9417
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9417
+Human won 
+Cure progress: 9412
+One random human turned to zombie 
+Human won 
+Cure progress: 9318
+Zombie won 
+Cure progress: 9318
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9315
+Human won 
+Cure progress: 9315
+One random human turned to zombie 
+Human won 
+Cure progress: 9315
+Human won 
+Cure progress: 9315
+One random human turned to zombie 
+Human won 
+Cure progress: 9315
+Zombie won 
+Cure progress: 9315
+One random human turned to zombie 
+Human won 
+Cure progress: 9315
+Zombie won in first move 
+Cure progress: 9315
+One random human turned to zombie 
+Human won 
+Cure progress: 9315
+Zombie won 
+Cure progress: 9283
+One random human turned to zombie 
+Human won 
+Cure progress: 9283
+Zombie won 
+Cure progress: 9283
+One random human turned to zombie 
+Human won 
+Cure progress: 9283
+Human won 
+Cure progress: 9283
+One random human turned to zombie 
+Human won 
+Cure progress: 9264
+Zombie won in first move 
+Cure progress: 9264
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9264
+Zombie won 
+Cure progress: 9260
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9260
+Zombie won in first move 
+Cure progress: 9260
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 9260
+Human won 
+Cure progress: 9260
+One random human turned to zombie 
+Human won 
+Cure progress: 9260
+BOMBED 
+Human won 
+Cure progress: 9260
+One random human turned to zombie 
+Human won 
+Cure progress: 9260
+Zombie won in first move 
+Cure progress: 9257
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 9257
+Human won 
+Cure progress: 9257
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 9257
+BOMBED 
+Human won 
+Cure progress: 9257
+One random human turned to zombie 
+Human won 
+Cure progress: 9167
+Zombie won 
+Cure progress: 9167
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9167
+Zombie won 
+Cure progress: 9167
+One random human turned to zombie 
+Human won 
+Cure progress: 9167
+Human won 
+Cure progress: 9148
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 9116
+Human won 
+Cure progress: 9113
+One random human turned to zombie 
+Human won 
+Cure progress: 9113
+BOMBED 
+Human won 
+Cure progress: 9113
+One random human turned to zombie 
+Human won 
+Cure progress: 9045
+Zombie won 
+Cure progress: 9045
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9045
+Zombie won 
+Cure progress: 9045
+One random human turned to zombie 
+Zombie won 
+Cure progress: 9045
+Zombie won 
+Cure progress: 9042
+One random human turned to zombie 
+Human won 
+Cure progress: 9042
+Zombie won in first move 
+Cure progress: 8950
+One random human turned to zombie 
+Human won 
+Cure progress: 8950
+Human won 
+Cure progress: 8950
+One random human turned to zombie 
+Human won 
+Cure progress: 8950
+Human won 
+Cure progress: 8950
+One random human turned to zombie 
+Human won 
+Cure progress: 8950
+Human won 
+Cure progress: 8950
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8950
+Zombie won 
+Cure progress: 8950
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8950
+Human won 
+Cure progress: 8950
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8950
+Zombie won in first move 
+Cure progress: 8950
+One random human turned to zombie 
+Human won 
+Cure progress: 8950
+Zombie won in first move 
+Cure progress: 8950
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8946
+Zombie won 
+Cure progress: 8946
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8946
+BOMBED 
+Human won 
+Cure progress: 8946
+One random human turned to zombie 
+Human won 
+Cure progress: 8946
+Human won 
+Cure progress: 8946
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8946
+Zombie won 
+Cure progress: 8946
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8946
+Zombie won in first move 
+Cure progress: 8946
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 8946
+Human won 
+Cure progress: 8946
+One random human turned to zombie 
+Human won 
+Cure progress: 8946
+Zombie won 
+Cure progress: 8852
+One random human turned to zombie 
+Human won 
+Cure progress: 8852
+Zombie won in first move 
+Cure progress: 8852
+One random human turned to zombie 
+Human won 
+Cure progress: 8852
+Human won 
+Cure progress: 8852
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8852
+Human won 
+Cure progress: 8852
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8852
+Zombie won 
+Cure progress: 8852
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8820
+Human won 
+Cure progress: 8820
+One random human turned to zombie 
+Human won 
+Cure progress: 8820
+Zombie won in first move 
+Cure progress: 8820
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8820
+Human won 
+Cure progress: 8820
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8820
+Zombie won in first move 
+Cure progress: 8820
+One random human turned to zombie 
+Human won 
+Cure progress: 8820
+Zombie won in first move 
+Cure progress: 8820
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8820
+Zombie won 
+Cure progress: 8820
+One random human turned to zombie 
+Human won 
+Cure progress: 8820
+Human won 
+Cure progress: 8820
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8728
+Human won 
+Cure progress: 8728
+One random human turned to zombie 
+Human won 
+Cure progress: 8703
+Zombie won in first move 
+Cure progress: 8703
+One random human turned to zombie 
+Human won 
+Cure progress: 8703
+Human won 
+Cure progress: 8703
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8635
+Human won 
+Cure progress: 8540
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8540
+Human won 
+Cure progress: 8540
+One random human turned to zombie 
+Human won 
+Cure progress: 8540
+Zombie won 
+Cure progress: 8540
+One random human turned to zombie 
+Human won 
+Cure progress: 8521
+Human won 
+Cure progress: 8521
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8521
+Zombie won 
+Cure progress: 8521
+One random human turned to zombie 
+Human won 
+Cure progress: 8521
+Zombie won 
+Cure progress: 8521
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 8521
+Human won 
+Cure progress: 8496
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8496
+Zombie won in first move 
+Cure progress: 8496
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8496
+Zombie won 
+Cure progress: 8496
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8496
+Zombie won in first move 
+Cure progress: 8496
+One random human turned to zombie 
+Human won 
+Cure progress: 8404
+Human won 
+Cure progress: 8404
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8404
+Zombie won in first move 
+Cure progress: 8404
+One random human turned to zombie 
+Human won 
+Cure progress: 8404
+Zombie won in first move 
+Cure progress: 8404
+One random human turned to zombie 
+Human won 
+Cure progress: 8404
+Human won 
+Cure progress: 8404
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8404
+Zombie won in first move 
+Cure progress: 8404
+One random human turned to zombie 
+Human won 
+Cure progress: 8404
+Human won 
+Cure progress: 8404
+One random human turned to zombie 
+Human won 
+Cure progress: 8404
+Human won 
+Cure progress: 8404
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8404
+Zombie won in first move 
+Cure progress: 8404
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8404
+Human won 
+Cure progress: 8404
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8310
+Human won 
+Cure progress: 8310
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8310
+Human won 
+Cure progress: 8310
+One random human turned to zombie 
+Human won 
+Cure progress: 8216
+Zombie won 
+Cure progress: 8216
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8216
+BOMBED 
+Human won 
+Cure progress: 8216
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8216
+Zombie won in first move 
+Cure progress: 8121
+One random human turned to zombie 
+Human won 
+Cure progress: 8121
+Human won 
+Cure progress: 8121
+One random human turned to zombie 
+Zombie won 
+Cure progress: 8121
+Human won 
+Cure progress: 8096
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 8091
+Zombie won 
+Cure progress: 8091
+One random human turned to zombie 
+Human won 
+Cure progress: 8091
+Zombie won 
+Cure progress: 8091
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 8091
+Zombie won 
+Cure progress: 8091
+One random human turned to zombie 
+Human won 
+Cure progress: 8091
+Human won 
+Cure progress: 8091
+One random human turned to zombie 
+Human won 
+Cure progress: 8001
+Zombie won 
+Cure progress: 8001
+One random human turned to zombie 
+Human won 
+Cure progress: 8001
+Zombie won 
+Cure progress: 7911
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7911
+Human won 
+Cure progress: 7911
+One random human turned to zombie 
+Human won 
+Cure progress: 7911
+Human won 
+Cure progress: 7911
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7911
+Human won 
+Cure progress: 7908
+One random human turned to zombie 
+Human won 
+Cure progress: 7818
+Zombie won in first move 
+Cure progress: 7818
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7724
+Human won 
+Cure progress: 7721
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7721
+Zombie won 
+Cure progress: 7721
+One random human turned to zombie 
+Human won 
+Cure progress: 7721
+Zombie won in first move 
+Cure progress: 7721
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7721
+Zombie won 
+Cure progress: 7721
+One random human turned to zombie 
+Human won 
+Cure progress: 7721
+Zombie won 
+Cure progress: 7721
+One random human turned to zombie 
+Human won 
+Cure progress: 7721
+BOMBED 
+Human won 
+Cure progress: 7721
+One random human turned to zombie 
+Human won 
+Cure progress: 7721
+Human won 
+Cure progress: 7721
+One random human turned to zombie 
+Human won 
+Cure progress: 7721
+Human won 
+Cure progress: 7721
+One random human turned to zombie 
+Human won 
+Cure progress: 7721
+Human won 
+Cure progress: 7721
+One random human turned to zombie 
+Human won 
+Cure progress: 7721
+Human won 
+Cure progress: 7721
+One random human turned to zombie 
+Human won 
+Cure progress: 7721
+Zombie won in first move 
+Cure progress: 7721
+One random human turned to zombie 
+Human won 
+Cure progress: 7721
+Human won 
+Cure progress: 7721
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7712
+Human won 
+Cure progress: 7680
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7590
+Human won 
+Cure progress: 7590
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7590
+Zombie won in first move 
+Cure progress: 7590
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7590
+Zombie won 
+Cure progress: 7590
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7586
+Zombie won 
+Cure progress: 7586
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7586
+Human won 
+Cure progress: 7567
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7567
+Human won 
+Cure progress: 7567
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7567
+Zombie won in first move 
+Cure progress: 7567
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7567
+Human won 
+Cure progress: 7477
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7477
+Human won 
+Cure progress: 7445
+One random human turned to zombie 
+Human won 
+Cure progress: 7445
+Human won 
+Cure progress: 7445
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7445
+Zombie won 
+Cure progress: 7413
+One random human turned to zombie 
+Human won 
+Cure progress: 7413
+Zombie won 
+Cure progress: 7413
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7413
+Human won 
+Cure progress: 7413
+One random human turned to zombie 
+Human won 
+Cure progress: 7413
+Zombie won 
+Cure progress: 7404
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7404
+Zombie won 
+Cure progress: 7404
+One random human turned to zombie 
+Human won 
+Cure progress: 7404
+Zombie won 
+Cure progress: 7404
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 7385
+Human won 
+Cure progress: 7385
+One random human turned to zombie 
+Human won 
+Cure progress: 7385
+Human won 
+Cure progress: 7385
+One random human turned to zombie 
+Human won 
+Cure progress: 7385
+Zombie won in first move 
+Cure progress: 7385
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7385
+Zombie won in first move 
+Cure progress: 7385
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7385
+Zombie won in first move 
+Cure progress: 7385
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7353
+Zombie won 
+Cure progress: 7353
+One random human turned to zombie 
+Human won 
+Cure progress: 7353
+Human won 
+Cure progress: 7353
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7353
+Zombie won 
+Cure progress: 7353
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7348
+Human won 
+Cure progress: 7348
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7348
+Zombie won 
+Cure progress: 7329
+One random human turned to zombie 
+Human won 
+Cure progress: 7329
+Zombie won 
+Cure progress: 7329
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7329
+Human won 
+Cure progress: 7329
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 7261
+Zombie won 
+Cure progress: 7261
+One random human turned to zombie 
+Human won 
+Cure progress: 7261
+Zombie won 
+Cure progress: 7261
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7261
+Human won 
+Cure progress: 7193
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7101
+Zombie won in first move 
+Cure progress: 7101
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7101
+Zombie won 
+Cure progress: 7096
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7096
+Zombie won 
+Cure progress: 7096
+One random human turned to zombie 
+Human won 
+Cure progress: 7096
+Human won 
+Cure progress: 7087
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7087
+Human won 
+Cure progress: 7078
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 7078
+Human won 
+Cure progress: 7078
+One random human turned to zombie 
+Human won 
+Cure progress: 7078
+Zombie won 
+Cure progress: 7059
+One random human turned to zombie 
+Human won 
+Cure progress: 7059
+Human won 
+Cure progress: 7059
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 7059
+Human won 
+Cure progress: 7059
+One random human turned to zombie 
+Zombie won 
+Cure progress: 7059
+Human won 
+Cure progress: 7059
+One random human turned to zombie 
+Human won 
+Cure progress: 6991
+Human won 
+Cure progress: 6991
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6923
+Human won 
+Cure progress: 6923
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6923
+Zombie won in first move 
+Cure progress: 6923
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6923
+Human won 
+Cure progress: 6914
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6846
+Human won 
+Cure progress: 6846
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6846
+Zombie won in first move 
+Cure progress: 6846
+One random human turned to zombie 
+Human won 
+Cure progress: 6752
+Human won 
+Cure progress: 6752
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6752
+Zombie won in first move 
+Cure progress: 6684
+One random human turned to zombie 
+Human won 
+Cure progress: 6684
+Human won 
+Cure progress: 6684
+One random human turned to zombie 
+Human won 
+Cure progress: 6684
+Human won 
+Cure progress: 6684
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6684
+Zombie won 
+Cure progress: 6684
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6684
+Human won 
+Cure progress: 6684
+One random human turned to zombie 
+Human won 
+Cure progress: 6684
+Zombie won 
+Cure progress: 6684
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6675
+Zombie won in first move 
+Cure progress: 6675
+One random human turned to zombie 
+Human won 
+Cure progress: 6675
+Zombie won 
+Cure progress: 6671
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 6671
+Zombie won 
+Cure progress: 6671
+One random human turned to zombie 
+Human won 
+Cure progress: 6667
+Zombie won in first move 
+Cure progress: 6667
+One random human turned to zombie 
+Human won 
+Cure progress: 6667
+Zombie won in first move 
+Cure progress: 6667
+One random human turned to zombie 
+Human won 
+Cure progress: 6658
+Human won 
+Cure progress: 6658
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6658
+Human won 
+Cure progress: 6653
+One random human turned to zombie 
+Human won 
+Cure progress: 6648
+Zombie won 
+Cure progress: 6648
+One random human turned to zombie 
+Human won 
+Cure progress: 6648
+Human won 
+Cure progress: 6648
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6648
+Human won 
+Cure progress: 6639
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6639
+Human won 
+Cure progress: 6639
+One random human turned to zombie 
+Human won 
+Cure progress: 6639
+Human won 
+Cure progress: 6635
+One random human turned to zombie 
+Human won 
+Cure progress: 6635
+Human won 
+Cure progress: 6545
+One random human turned to zombie 
+Human won 
+Cure progress: 6545
+Human won 
+Cure progress: 6545
+One random human turned to zombie 
+Human won 
+Cure progress: 6545
+Human won 
+Cure progress: 6545
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6545
+Human won 
+Cure progress: 6545
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6545
+Zombie won 
+Cure progress: 6545
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6540
+Human won 
+Cure progress: 6540
+One random human turned to zombie 
+Human won 
+Cure progress: 6540
+Human won 
+Cure progress: 6540
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6540
+Human won 
+Cure progress: 6540
+One random human turned to zombie 
+Human won 
+Cure progress: 6540
+Zombie won 
+Cure progress: 6540
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6540
+Human won 
+Cure progress: 6540
+One random human turned to zombie 
+Human won 
+Cure progress: 6472
+Zombie won in first move 
+Cure progress: 6472
+One random human turned to zombie 
+Human won 
+Cure progress: 6472
+Human won 
+Cure progress: 6472
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6472
+Human won 
+Cure progress: 6453
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 6453
+Human won 
+Cure progress: 6434
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6434
+Human won 
+Cure progress: 6434
+One random human turned to zombie 
+Human won 
+Cure progress: 6434
+Human won 
+Cure progress: 6434
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6434
+Zombie won in first move 
+Cure progress: 6434
+One random human turned to zombie 
+Human won 
+Cure progress: 6415
+Zombie won 
+Cure progress: 6347
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6342
+Zombie won in first move 
+Cure progress: 6342
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6342
+Zombie won in first move 
+Cure progress: 6342
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6337
+Zombie won in first move 
+Cure progress: 6337
+One random human turned to zombie 
+Human won 
+Cure progress: 6337
+Zombie won 
+Cure progress: 6337
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6337
+Zombie won in first move 
+Cure progress: 6337
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6337
+Human won 
+Cure progress: 6337
+One random human turned to zombie 
+Human won 
+Cure progress: 6337
+Human won 
+Cure progress: 6337
+One random human turned to zombie 
+Human won 
+Cure progress: 6337
+Human won 
+Cure progress: 6337
+One random human turned to zombie 
+Human won 
+Cure progress: 6337
+Human won 
+Cure progress: 6337
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6337
+Human won 
+Cure progress: 6318
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 6313
+Zombie won in first move 
+Cure progress: 6309
+One random human turned to zombie 
+Human won 
+Cure progress: 6305
+Zombie won in first move 
+Cure progress: 6305
+One random human turned to zombie 
+Human won 
+Cure progress: 6305
+Zombie won 
+Cure progress: 6305
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6213
+Human won 
+Cure progress: 6213
+One random human turned to zombie 
+Zombie won 
+Cure progress: 6213
+Human won 
+Cure progress: 6213
+One random human turned to zombie 
+Human won 
+Cure progress: 6123
+Human won 
+Cure progress: 6123
+One random human turned to zombie 
+Human won 
+Cure progress: 6104
+Zombie won 
+Cure progress: 6104
+One random human turned to zombie 
+Human won 
+Cure progress: 6012
+Zombie won in first move 
+Cure progress: 5944
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5944
+Zombie won 
+Cure progress: 5944
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5944
+Zombie won 
+Cure progress: 5944
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5944
+Human won 
+Cure progress: 5944
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5944
+BOMBED 
+Human won 
+Cure progress: 5944
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5944
+Human won 
+Cure progress: 5925
+One random human turned to zombie 
+Human won 
+Cure progress: 5925
+BOMBED 
+Human won 
+Cure progress: 5857
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5789
+Zombie won 
+Cure progress: 5784
+One random human turned to zombie 
+Human won 
+Cure progress: 5784
+Zombie won 
+Cure progress: 5775
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5775
+Human won 
+Cure progress: 5770
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5770
+Human won 
+Cure progress: 5770
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5770
+Zombie won 
+Cure progress: 5770
+One random human turned to zombie 
+Human won 
+Cure progress: 5770
+Zombie won in first move 
+Cure progress: 5770
+One random human turned to zombie 
+Human won 
+Cure progress: 5770
+Zombie won 
+Cure progress: 5770
+One random human turned to zombie 
+Human won 
+Cure progress: 5770
+Human won 
+Cure progress: 5770
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5770
+Human won 
+Cure progress: 5770
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5761
+Human won 
+Cure progress: 5761
+One random human turned to zombie 
+Human won 
+Cure progress: 5761
+Human won 
+Cure progress: 5761
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5757
+Human won 
+Cure progress: 5757
+One random human turned to zombie 
+Human won 
+Cure progress: 5757
+Zombie won in first move 
+Cure progress: 5748
+One random human turned to zombie 
+Human won 
+Cure progress: 5748
+Zombie won 
+Cure progress: 5680
+One random human turned to zombie 
+Human won 
+Cure progress: 5680
+Human won 
+Cure progress: 5680
+One random human turned to zombie 
+Human won 
+Cure progress: 5680
+Zombie won 
+Cure progress: 5680
+One random human turned to zombie 
+Human won 
+Cure progress: 5680
+Human won 
+Cure progress: 5680
+One random human turned to zombie 
+Human won 
+Cure progress: 5680
+Zombie won 
+Cure progress: 5680
+One random human turned to zombie 
+Human won 
+Cure progress: 5680
+Human won 
+Cure progress: 5680
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5680
+Zombie won in first move 
+Cure progress: 5680
+One random human turned to zombie 
+Human won 
+Cure progress: 5680
+Zombie won 
+Cure progress: 5671
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5667
+Human won 
+Cure progress: 5667
+One random human turned to zombie 
+Human won 
+Cure progress: 5667
+Human won 
+Cure progress: 5648
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5648
+Human won 
+Cure progress: 5648
+One random human turned to zombie 
+Human won 
+Cure progress: 5648
+Human won 
+Cure progress: 5648
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5648
+Zombie won in first move 
+Cure progress: 5648
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5648
+Human won 
+Cure progress: 5648
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5648
+Human won 
+Cure progress: 5648
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5580
+Zombie won 
+Cure progress: 5580
+One random human turned to zombie 
+Human won 
+Cure progress: 5512
+Zombie won 
+Cure progress: 5508
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5508
+Human won 
+Cure progress: 5489
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5489
+Zombie won 
+Cure progress: 5489
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5489
+Zombie won 
+Cure progress: 5489
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5489
+Human won 
+Cure progress: 5489
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5489
+Zombie won in first move 
+Cure progress: 5489
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5489
+Zombie won 
+Cure progress: 5489
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5489
+Human won 
+Cure progress: 5489
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5489
+Human won 
+Cure progress: 5489
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5489
+Human won 
+Cure progress: 5489
+One random human turned to zombie 
+Human won 
+Cure progress: 5489
+Zombie won 
+Cure progress: 5421
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5421
+Human won 
+Cure progress: 5329
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5237
+Zombie won 
+Cure progress: 5237
+One random human turned to zombie 
+Human won 
+Cure progress: 5237
+Human won 
+Cure progress: 5237
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5237
+Zombie won in first move 
+Cure progress: 5237
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5233
+Zombie won in first move 
+Cure progress: 5233
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5165
+Zombie won in first move 
+Cure progress: 5165
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5165
+Zombie won in first move 
+Cure progress: 5165
+One random human turned to zombie 
+Human won 
+Cure progress: 5165
+Zombie won in first move 
+Cure progress: 5165
+One random human turned to zombie 
+Human won 
+Cure progress: 5165
+Human won 
+Cure progress: 5165
+One random human turned to zombie 
+Human won 
+Cure progress: 5165
+Zombie won 
+Cure progress: 5160
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5160
+Zombie won in first move 
+Cure progress: 5160
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5160
+Human won 
+Cure progress: 5160
+One random human turned to zombie 
+Human won 
+Cure progress: 5160
+Zombie won 
+Cure progress: 5160
+One random human turned to zombie 
+Human won 
+Cure progress: 5160
+Human won 
+Cure progress: 5160
+One random human turned to zombie 
+Human won 
+Cure progress: 5160
+Zombie won 
+Cure progress: 5160
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5160
+Human won 
+Cure progress: 5156
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 5156
+Human won 
+Cure progress: 5156
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5156
+Human won 
+Cure progress: 5156
+One random human turned to zombie 
+Zombie won 
+Cure progress: 5064
+Zombie won 
+Cure progress: 5060
+One random human turned to zombie 
+Human won 
+Cure progress: 5060
+Zombie won 
+Cure progress: 5060
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4968
+Human won 
+Cure progress: 4968
+One random human turned to zombie 
+Human won 
+Cure progress: 4968
+Human won 
+Cure progress: 4968
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4968
+Zombie won 
+Cure progress: 4963
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4963
+Human won 
+Cure progress: 4963
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4963
+Human won 
+Cure progress: 4963
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4963
+Human won 
+Cure progress: 4959
+One random human turned to zombie 
+Human won 
+Cure progress: 4955
+Zombie won in first move 
+Cure progress: 4887
+One random human turned to zombie 
+Human won 
+Cure progress: 4887
+Human won 
+Cure progress: 4795
+One random human turned to zombie 
+Human won 
+Cure progress: 4795
+Human won 
+Cure progress: 4795
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4727
+Zombie won in first move 
+Cure progress: 4722
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 4722
+Human won 
+Cure progress: 4722
+One random human turned to zombie 
+Human won 
+Cure progress: 4722
+Human won 
+Cure progress: 4722
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4722
+Human won 
+Cure progress: 4717
+One random human turned to zombie 
+Human won 
+Cure progress: 4717
+Zombie won 
+Cure progress: 4717
+One random human turned to zombie 
+Human won 
+Cure progress: 4717
+Human won 
+Cure progress: 4717
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4717
+Zombie won 
+Cure progress: 4717
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4717
+Human won 
+Cure progress: 4649
+One random human turned to zombie 
+Human won 
+Cure progress: 4644
+Human won 
+Cure progress: 4644
+One random human turned to zombie 
+Human won 
+Cure progress: 4644
+Zombie won in first move 
+Cure progress: 4644
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4644
+Zombie won 
+Cure progress: 4644
+One random human turned to zombie 
+Human won 
+Cure progress: 4644
+Zombie won in first move 
+Cure progress: 4640
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4640
+Human won 
+Cure progress: 4636
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4636
+Human won 
+Cure progress: 4636
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4636
+Human won 
+Cure progress: 4636
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4636
+Zombie won 
+Cure progress: 4631
+One random human turned to zombie 
+Human won 
+Cure progress: 4631
+Human won 
+Cure progress: 4631
+One random human turned to zombie 
+Human won 
+Cure progress: 4631
+Human won 
+Cure progress: 4631
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4539
+Human won 
+Cure progress: 4539
+One random human turned to zombie 
+Human won 
+Cure progress: 4534
+Human won 
+Cure progress: 4534
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4534
+Zombie won 
+Cure progress: 4530
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4530
+Human won 
+Cure progress: 4530
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4530
+BOMBED 
+Human won 
+Cure progress: 4530
+One random human turned to zombie 
+Human won 
+Cure progress: 4530
+Zombie won 
+Cure progress: 4530
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4530
+Human won 
+Cure progress: 4530
+One random human turned to zombie 
+Human won 
+Cure progress: 4530
+Human won 
+Cure progress: 4530
+One random human turned to zombie 
+Human won 
+Cure progress: 4530
+Human won 
+Cure progress: 4530
+One random human turned to zombie 
+Human won 
+Cure progress: 4530
+Human won 
+Cure progress: 4530
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4525
+Human won 
+Cure progress: 4525
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4525
+Human won 
+Cure progress: 4525
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4525
+Human won 
+Cure progress: 4525
+One random human turned to zombie 
+Human won 
+Cure progress: 4457
+Human won 
+Cure progress: 4389
+One random human turned to zombie 
+BOMBED 
+Human won 
+Cure progress: 4389
+Human won 
+Cure progress: 4389
+One random human turned to zombie 
+Human won 
+Cure progress: 4389
+Human won 
+Cure progress: 4389
+One random human turned to zombie 
+Human won 
+Cure progress: 4389
+Zombie won 
+Cure progress: 4389
+One random human turned to zombie 
+Human won 
+Cure progress: 4389
+Human won 
+Cure progress: 4389
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4389
+Zombie won in first move 
+Cure progress: 4384
+One random human turned to zombie 
+Human won 
+Cure progress: 4384
+Zombie won 
+Cure progress: 4379
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4379
+Human won 
+Cure progress: 4287
+One random human turned to zombie 
+Human won 
+Cure progress: 4282
+Human won 
+Cure progress: 4282
+One random human turned to zombie 
+Human won 
+Cure progress: 4277
+Human won 
+Cure progress: 4277
+One random human turned to zombie 
+Human won 
+Cure progress: 4277
+Zombie won in first move 
+Cure progress: 4277
+One random human turned to zombie 
+Human won 
+Cure progress: 4277
+Zombie won in first move 
+Cure progress: 4277
+One random human turned to zombie 
+Human won 
+Cure progress: 4277
+Human won 
+Cure progress: 4277
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4277
+Human won 
+Cure progress: 4277
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4277
+Zombie won 
+Cure progress: 4277
+One random human turned to zombie 
+Human won 
+Cure progress: 4277
+Zombie won 
+Cure progress: 4273
+One random human turned to zombie 
+Human won 
+Cure progress: 4268
+Human won 
+Cure progress: 4268
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4268
+Human won 
+Cure progress: 4176
+One random human turned to zombie 
+Human won 
+Cure progress: 4176
+Human won 
+Cure progress: 4176
+One random human turned to zombie 
+Human won 
+Cure progress: 4176
+Zombie won 
+Cure progress: 4176
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4176
+Zombie won in first move 
+Cure progress: 4176
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4176
+Zombie won 
+Cure progress: 4176
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4176
+BOMBED 
+Human won 
+Cure progress: 4176
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4176
+Human won 
+Cure progress: 4176
+One random human turned to zombie 
+Human won 
+Cure progress: 4176
+Zombie won 
+Cure progress: 4176
+One random human turned to zombie 
+Human won 
+Cure progress: 4172
+Zombie won in first move 
+Cure progress: 4172
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4172
+Zombie won in first move 
+Cure progress: 4172
+One random human turned to zombie 
+Human won 
+Cure progress: 4172
+Human won 
+Cure progress: 4172
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4172
+Zombie won in first move 
+Cure progress: 4172
+One random human turned to zombie 
+Human won 
+Cure progress: 4172
+Human won 
+Cure progress: 4168
+One random human turned to zombie 
+Human won 
+Cure progress: 4076
+Zombie won 
+Cure progress: 4076
+One random human turned to zombie 
+Human won 
+Cure progress: 4076
+Zombie won 
+Cure progress: 4076
+One random human turned to zombie 
+Human won 
+Cure progress: 4076
+Zombie won 
+Cure progress: 4076
+One random human turned to zombie 
+Human won 
+Cure progress: 4076
+Human won 
+Cure progress: 4076
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4076
+BOMBED 
+Human won 
+Cure progress: 4076
+One random human turned to zombie 
+Human won 
+Cure progress: 4076
+Zombie won in first move 
+Cure progress: 4076
+One random human turned to zombie 
+Human won 
+Cure progress: 4076
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4072
+Zombie won in first move 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4072
+Zombie won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4072
+Zombie won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Zombie won in first move 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4072
+Zombie won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Zombie won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won in first move 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4072
+Zombie won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Zombie won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Zombie won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Human won 
+Cure progress: 4072
+One random human turned to zombie 
+Human won 
+Cure progress: 4072
+Zombie won in first move 
+Cure progress: 4072
+One random human turned to zombie 
+After 816 days: 
+0 Humans, 576 Zombies. 
+Cure progress was: 4072 (0 means ready) 
+------------------------------------------------------------------------------------------------------------ 
