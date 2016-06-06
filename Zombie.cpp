@@ -18,7 +18,7 @@ string SuicideZombie::description()
 string BerserkZombie::description()
 {
     return "Berserk Zombie nr: "+to_string(zombieID())+"  Health: "+to_string(zombieHP())+"\n"
-        +"Attack chance: "+to_string(_attackChance)+"  Attack count: "+to_string(_attackCount)+"  Resist chance: "+to_string(_resistChance)+"\n";
+        +"Attack chance: "+to_string(_attackChance)+"  Attack count: "+to_string(_attackCount)+"\n";
 }
 
 bool CommonZombie::tryAttack()
